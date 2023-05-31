@@ -1,0 +1,70 @@
+.fondoRepo{
+    background-color: rgba(13, 255, 0, 0.5);
+    position: fixed;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    top:0;
+    left: 0;
+    justify-content: center;
+    z-index: 5;
+}
+
+.fondoRepo p{
+    margin: 7px;
+}
+.fondoRepo h4{
+    margin: 7px;
+}
+
+.menu{
+    top:15vh;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    justify-content: space-around;
+    background-color: white;
+    align-items: center;
+    padding: 20px;
+    border-style: solid;
+    border-color: #333;
+    border-width: 5px;
+}
+
+.menu button{
+    width: 150px;
+    border-style: dashed;
+    border-width: 4px;
+    border-color: #333;
+    padding: 4px;
+}
+
+.palabrasRepo{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 70vw;    
+}
+
+@media (max-width: 380px) {
+
+    p {
+        font-size: 12px;
+        margin: 2px;
+    }
+
+    .palabrasRepo p{
+        font-size: 12px;
+        margin: 4px;
+    }
+
+    .menu button{
+        padding: 4px;
+        border-style: dashed;
+        border-width: 3px;
+        border-color: #333;
+        font-size: 12px;
+    }
+}

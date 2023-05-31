@@ -1,0 +1,17 @@
+.nivel{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: center;
+  }
+  .cuerpo{
+    margin-top: 80px;
+  }
+
+  @media (max-width: 380px) {
+
+    
+  .cuerpo{
+    margin-top: 60px;
+  }
+}

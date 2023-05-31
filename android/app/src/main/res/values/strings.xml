@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sopadeltras</string>
+    <string name="title_activity_main">sopadeltras</string>
+    <string name="package_name">manuel.test.sopadeletras</string>
+    <string name="custom_url_scheme">manuel.test.sopadeletras</string>
+</resources>

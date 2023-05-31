@@ -1,0 +1,8 @@
+{
+  "appId": "manuel.test.sopadeletras",
+  "appName": "sopadeltras",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

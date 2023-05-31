@@ -1,0 +1,39 @@
+{
+    "bio": {
+        "sub1": {
+            "nombre": "Fauna",
+            "palabras": ["Panda", "Tiburón", "Elefante", "Ballena", "Lince", "Rana", "Araña", "Cangrejo", "Oso", "Cocodrilo", "Jaguar", "Rinoceronte", "Lobo", "Zorro", "Linces", "Aves"],
+            "significados": ["Una especie de osos originaria de China", "Tipo de pez marino con una boca llena de dientes afilados", "Animal terrestre de gran tamaño", "Mamífero marino que respira por las branquias", "Mamífero carnívoro de la familia de los felinos", "Amphibian con patas y piel húmeda", "Arthropod con ocho patas y seda", "Crustaceo con un caparazón rígido", "Mamífero carnívoro y omnívoro", "Reptil acuático con una mandíbula fuerte", "Mamífero carnívoro de la familia de los felinos", "Mamífero ungulado con cuernos en la nariz", "Mamífero carnívoro solitario", "Mamífero carnívoro y omnívoro", "Mamífero carnívoro de la familia de los felinos", "Vertebrados con plumas y capacidad de volar"]
+        },
+        "sub2": {
+            "nombre": "Flora",
+            "palabras": ["Orquídea", "Cactus", "Helecho", "Arbusto", "Árbol", "Hierba", "Seta", "Liana", "Bromelia", "Rosa", "Cebolla", "Tomate", "Lirio", "Fresno", "Sauce", "Nenúfar"],
+            "significados": ["Tipo de planta epifita con flores exóticas", "Tipo de planta xerófila con espinas", "Tipo de planta acuática o terrestre con hojas filiformes", "Planta arbustiva de pequeña altura", "Planta leñosa de gran altura con ramas y hojas", "Planta herbácea de bajo crecimiento", "Fructificación subterránea de los hongos", "Planta trepadora con raíces aéreas", "Tipo de planta epifita con inflorescencias", "Planta con flores solitarias o en racimo", "Bulbo comestible de la familia de las liliáceas", "Fruto comestible de la familia de las solanáceas", "Tipo de planta perenne con flores solitarias", "Árbol leñoso de hojas caducas", "Árbol leñoso de hojas perennes", "Planta acuática con flores grandes y aéreas"]
+        }
+    },
+    "pT": {
+        "sub1": {
+            "nombre": "Desarrollo urbano",
+            "palabras": ["Edificio", "Vivienda", "Zona", "estructura", "Transporte", "Comercio", "Turismo", "Escuela", "Hospital", "Centro", "Recreación", "Residencial", "Industrial", "Turística", "Comercial", "Verde"],
+            "significados": ["Conjunto de pisos y techos construidos para albergar a personas o para fines comerciales o industriales", "Espacio habitado por una o varias personas", "Extensión delimitada de un territorio con características específicas", "Construcción sólida y permanente", "Sistema de movilización de personas y bienes", "Intercambio de bienes y servicios", "Actividad económica basada en la atracción de turistas", "Institución educativa para la enseñanza", "Centro médico para la atención de la salud", "Lugar de reunión de servicios y actividades", "Lugar para la diversión y el esparcimiento", "Área destinada a la construcción de viviendas", "Relacionado con la producción de bienes", "Destinada al turismo", "Relacionada con el comercio", "Área con vegetación y espacios verdes"]
+        },
+        "sub2": {
+            "nombre": "Ordenamiento territorial",
+            "palabras": ["Planificación", "Zonificación", "Gestión", "Desarrollo", "Protección", "Regulación", "Uso", "Plan", "Ordenamiento", "Patrimonio", "Ambiente", "Construcción", "Sostenible", "Estudios", "Urbano", "Preservación"],
+            "significados": ["Proceso de establecimiento de objetivos, identificación de recursos y selección de estrategias para alcanzarlos", "Clasificación de una zona o región en categorías para determinar las actividades permitidas y restricciones", "Administración y control de procesos para lograr objetivos específicos", "Proceso de crecimiento económico y social que se realiza en una zona o región", "Acción de proteger o preservar un recurso o área", "Proceso de establecer leyes o normas para regular una actividad o proceso", "Uso permitido de un recurso o área", "Documento que establece objetivos, políticas y estrategias para una zona o región", "Proceso de organización y ordenación del territorio", "Bien material o inmaterial considerado de valor cultural y que debe ser preservado", "Conjunto de elementos naturales y artificiales que rodean a un ser humano", "Proceso de construcción de edificios y estructuras", "Desarrollo que permite mantener un equilibrio entre el crecimiento económico y la preservación de los recursos naturales", "Estudios previos a la realización de un proyecto", "Relativo a la ciudad o al desarrollo urbano", "Acción de preservar o mantener intacto algo"]
+        }
+    },
+    "cC": {
+        "sub1": {
+            "nombre": "Mitigación",
+            "palabras": ["Energías", "Eficiencia", "Emisiones", "Limpias", "Residuos", "Sostenible", "Agricultura", "Forestería", "Turismo", "Renovables", "Energética", "Agua", "Sostenible", "Nuclear", "Solar", "Eólica"],
+            "significados": ["Generación de energía mediante recursos naturales y renovables", "Capacidad de un sistema o proceso para producir un resultado con un mínimo de recursos", "Cantidad de contaminantes emitidos al ambiente", "Generación de energía sin dañar el medio ambiente", "Desechos o basura generados por la actividad humana", "Desarrollo y uso de los recursos naturales de manera responsable", "Práctica agrícola que busca maximizar la producción sin dañar el medio ambiente", "Gestión de los bosques para asegurar su conservación y producción de recursos", "Actividad económica que se basa en el turismo y la exploración de destinos naturales", "Energías producidas a partir de recursos naturales que se regeneran con el tiempo", "Rama de la ingeniería que se encarga del estudio y uso de las energías renovables", "Recurso natural esencial para la vida en el planeta", "Desarrollo y uso de los recursos de manera responsable y sin agotarlos", "Energía producida a partir de reacciones nucleares", "Energía producida a partir de la luz y el calor del sol", "Energía producida a partir de la fuerza del viento"]
+        },
+        "sub2": {
+            "nombre": "Adaptación",
+            "palabras": ["Inundaciones", "Sequías", "Temperaturas", "Deslizamientos", "Erosión", "Maremotos", "Desastres", "Litorales", "Infraest", "Población", "Agricultura", "Ganadería", "Forestería", "Pesca", "Turismo", "Comunidades"],
+            "significados": ["Evento climático causado por el exceso de agua", "Falta de agua en un área", "Variación de la temperatura", "Desplazamiento de tierra y rocas", "Desgaste de la tierra por la acción natural o humana", "Ola gigante causada por un terremoto submarino", "Catástrofe natural o causada por la actividad humana", "Zona costera", "Infraestructura básica y servicios", "Grupo de personas que habitan un lugar", "Actividad agrícola", "Actividad ganadera", "Gestión de los bosques", "Actividad relacionada con la pesca", "Industria turística", "Grupo de personas que comparten un territorio o cultura"]
+        }
+    }
+
+}

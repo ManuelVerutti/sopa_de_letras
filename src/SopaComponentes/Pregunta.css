@@ -1,0 +1,70 @@
+.fondoPre {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    justify-content: center;
+}
+
+.fondoPre p {
+    margin: 7px;
+}
+
+.fondoPre h4 {
+    margin: 7px;
+}
+
+
+
+.cuerpoPre {
+    top: 25vh;
+    position: fixed;
+    display: flex;
+    max-width: 80vw;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: white;
+    align-items: center;
+    padding: 20px;
+    border-style: solid;
+    border-color: #333;
+    border-width: 5px;
+}
+
+.cuerpoPre p {
+    margin-top: 20px;
+    padding: 6px;
+    border-style: dashed;
+    border-color: #333;
+    border-width: 2px;
+    font-size: 12px;
+    text-align: justify;
+    max-width: 70vw;
+}
+
+.cuerpoPre .correcta {
+    background-color: rgb(162, 202, 129);
+    color: white;
+    font-weight: bold;
+    animation: destello 0.2s ease-in-out infinite;
+}
+
+.cuerpoPre .falsa {
+    background-color: rgb(195, 70, 70);
+    color: white;
+    font-weight: bold;
+    animation: destello 0.2s ease-in-out infinite;
+}
+
+@keyframes destello {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0.5;
+    }
+}

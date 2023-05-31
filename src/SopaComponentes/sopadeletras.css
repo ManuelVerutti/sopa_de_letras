@@ -1,0 +1,136 @@
+.letra {
+    height: 5vw;
+    width: 5vw;
+    font-size: 3vw;
+    background-color: rgb(246, 246, 246);
+    color: #333;
+    text-align: center;
+    border-radius: 5px;
+    text-transform: capitalize;
+    user-select: none;
+
+}
+.titulo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+  }
+
+.letra:hover {
+    background-color: rgb(162, 202, 129);
+    transform: scale(1.2);
+}
+
+.letraSelected{
+    height: 5vw;
+    width: 5vw;
+    font-size: 3vw;
+    background-color:  rgb(162, 202, 129)   ;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    text-transform: capitalize;
+    user-select: none;
+}
+
+.sopa{
+    padding: 10px;
+    border-style: solid;
+    border-color: #333;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.palabras{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.palabras p{
+    width: auto;
+    padding: 4px;
+    margin: 5px;
+}
+
+.palabras .pSelected{
+    width: auto;
+    padding: 4px;
+    margin: 5px;
+    color: rgb(162, 202, 129);
+    font-weight: bold;
+}
+
+.estadisticas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.estadisticas p {
+    width: auto;
+}
+
+.pauseIcon {
+    width: 50px;
+}
+
+
+.aniP {
+    color: rgb(162, 202, 129);
+    font-weight: bold;
+    animation: destello 0.2s ease-in-out infinite;
+}
+
+@keyframes destello {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0.5;
+    }
+}
+
+@media (max-width: 380px) {
+
+    .letra {
+        height: 15px;
+        width: 15px;
+        background-color: rgb(246, 246, 246);
+        color: #333;
+        font-size: 10px;
+        font-weight: normal;
+        text-align: center;
+        border-radius: 5px;
+        text-transform: capitalize;
+        user-select: none;
+    }
+
+    .letraSelected{
+        height: 15px;
+        width: 15px;
+        background-color:  rgb(162, 202, 129)   ;
+        color: white;
+        font-weight: normal;
+        font-size: 10px;
+        text-align: center;
+        border-radius: 5px;
+        text-transform: capitalize;
+        user-select: none;
+    }
+
+    .palabras p{
+        width: auto;
+        margin: 5px;
+    }
+    .pauseIcon {
+        width: 30px;
+    }
+}
