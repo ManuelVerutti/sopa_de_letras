@@ -26,6 +26,7 @@ function WordSearch(props) {
     const [respCor, setRespCor] = useState("");
     const [respFal, setRespFal] = useState("");
     const [posicionRespuestaCorrecta, setPosicionRespuestaCorrecta] = useState(0);
+    const wordSize = 18;
 
 
     function playSound() {
@@ -127,9 +128,9 @@ function WordSearch(props) {
 
 
         //create a grid with random letters
-        for (let i = 0; i < 15; i++) {
+        for (let i = 0; i < wordSize; i++) {
             let row = []
-            for (let j = 0; j < 15; j++) {
+            for (let j = 0; j < wordSize; j++) {
                 row.push(randomLetter())
             }
             grid.push(row)
@@ -139,8 +140,8 @@ function WordSearch(props) {
             let placed = false
             let attempts = 0
             while (!placed && attempts < 1000) {
-                let row = Math.floor(Math.random() * 15)
-                let col = Math.floor(Math.random() * 15)
+                let row = Math.floor(Math.random() * wordSize)
+                let col = Math.floor(Math.random() * wordSize)
                 let direction = Math.floor(Math.random() * 8)
                 if (canPlaceWord(row, col, direction, word, grid, wordPos, index)) {
                     placeWord(row, col, direction, word, grid, index, wordPos)
@@ -199,7 +200,7 @@ function WordSearch(props) {
             }
 
         } else if (direction === 1) {
-            if (col + word.length > 15) {
+            if (col + word.length > wordSize) {
                 return false
             } else {
                 for (let i = 0; i < word.length; i++) {
@@ -209,7 +210,7 @@ function WordSearch(props) {
             }
 
         } else if (direction === 2) {
-            if (row + word.length > 15) {
+            if (row + word.length > wordSize) {
                 return false
             } else {
                 for (let i = 0; i < word.length; i++) {
@@ -238,7 +239,7 @@ function WordSearch(props) {
             }
 
         } else if (direction === 5) {
-            if (row + word.length > 15 || col - word.length < -1) {
+            if (row + word.length > wordSize || col - word.length < -1) {
                 return false
             } else {
                 for (let i = 0; i < word.length; i++) {
@@ -248,7 +249,7 @@ function WordSearch(props) {
             }
 
         } else if (direction === 6) {
-            if (row - word.length < -1 || col + word.length > 15) {
+            if (row - word.length < -1 || col + word.length > wordSize) {
                 return false
             } else {
                 for (let i = 0; i < word.length; i++) {
@@ -258,7 +259,7 @@ function WordSearch(props) {
             }
 
         } else if (direction === 7) {
-            if (row + word.length > 15 || col + word.length > 15) {
+            if (row + word.length > wordSize || col + word.length > wordSize) {
                 return false
             } else {
                 for (let i = 0; i < word.length; i++) {
@@ -300,11 +301,18 @@ function WordSearch(props) {
     const startSelect = (x, y) => {
         if (!enableSecondTouch) {
             console.log("tocó1")
+            
             setIniSelec({ x: x, y: y });
+            let casilla = document.getElementById(x + "," + y);
+            casilla.classList.add('letraSelecting');
             setEnableSecondTouch(true);
         } else {
             console.log("tocó2")
+            let casillaAnterior = document.getElementById(iniSelec.x + "," + iniSelec.y);
+            casillaAnterior.classList.remove('letraSelecting');
             setFinSelec({ x: x, y: y });
+            let casilla = document.getElementById(x + "," + y);
+            casilla.classList.add('letraSelecting');
             setIsSelected(true);
             setEnableSecondTouch(false);
         }

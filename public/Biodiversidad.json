@@ -1,1047 +1,997 @@
-﻿[
+[
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "biodiversidad",
-        "DEFINICIONES": "Variabilidad de la vida en todas sus formas (especies, ecosistemas y variación genética dentro de las especies). "
+        "DEFINICIONES": "Variabilidad de la vida en todas sus formas (especies, ecosistemas y variación genética dentro de las especies)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "endemico",
-        "DEFINICIONES": "Especie o nivel taxonómico superior cuyo rango de distribución natural está restringida a una zona geográfica determinada"
+        "DEFINICIONES": "Especie o nivel taxonómico superior cuyo rango de distribución natural está restringida a una zona geográfica determinada (p.e. El Zamarrito del Pinche-Eriocnemis isabellae)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "especie",
-        "DEFINICIONES": "Un grupo de organismos (población) que pueden entrecruzarse entre sí y producir descendencia fértil, no pudiendo hacer lo mismo con otros organismos (aislamiento). "
+        "DEFINICIONES": "Un grupo de organismos (población) que pueden entrecruzarse entre sí y producir descendencia fértil, no pudiendo hacer lo mismo con otros organismos (p.e. El Zamarrito del Pinche-Eriocnemis isabellae)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "amenazada",
         "DEFINICIONES": "Especie que tiene probabilidad de estar en peligro de extinción en un futuro previsible, ya sea en la totalidad o parte de su rango de distribución"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "hotspot",
-        "DEFINICIONES": "Área del planeta Tierra con una concentración inusual de especies, muchas de las cuales son endémicas al áreas y se encuentran bajo amenaza "
+        "DEFINICIONES": "Área del planeta Tierra con una concentración inusual de especies, muchas de las cuales son endémicas al área y se encuentran bajo amenaza (p.e. Hotspot Andes Tropicales)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "casiendemica",
-        "DEFINICIONES": "Especie con un rango de distribución en dos o más países, en donde la mitad o más de su distribución se encuentra en un país pero posee extensiones menores hacia uno o más países vecinos."
+        "DEFINICIONES": "Especie con un rango de distribución en dos o más países, en donde la mitad o más de su distribución se encuentra en un país (p.e. colibrí cometa azul- Aglaiocercus coelestis)"
     },
     {
-        "TITULO": "Conceptos generales",
-        "PALABRAS": "kba",
-        "DEFINICIONES": "Áreas Clave para la Conservación de Biodiversidad, de gran valor global para la conservación y mantener la salud general del planeta, albergando ecosistemas de importancia mundial o poblaciones de animales, y plantas. La Serranía el Pinche es una KBA"
+        "TITULO": "CONCEPTOS GENERALES",
+        "PALABRAS": "KBA",
+        "DEFINICIONES": "Áreas Clave para la Conservación de Biodiversidad importantes para el planeta porque contribuye a su salud y a la persistencia de la biodiversidad (La Serranía El Pinche es una de ellas)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "aica",
-        "DEFINICIONES": "Las Áreas de Importancia para la Conservación de las Aves (AICA) son sitios que conservan especies de aves identificadas como prioritarias para la conservación. La Serranía El Pinche es un AICA."
+        "DEFINICIONES": "Áreas de Importancia para la Conservación de las Aves y la Biodiversidad, son sitios que conservan especies de aves prioritarias para la conservación. La Serranía El Pinche es una de ellas"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "habitat",
         "DEFINICIONES": "Son las condiciones biofísicas y geográficas donde un organismo o una población vive, se reproduce y perpetua su existencia"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "poblacion",
-        "DEFINICIONES": "Un grupo de individuos de la misma especie que ocupa un área definida y generalmente, está aislada en alguna medida de otros grupos similares."
+        "DEFINICIONES": "Grupo de individuos de la misma especie que ocupa un área definida (p.e. los individuos del Zamarrtio del Pinche-Eriocnemis isabellae que viven en el páramo La Soledad)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "genero",
-        "DEFINICIONES": "Categoría taxonómica que agrupa a las especies relacionadas entre sí por medio de la evolución"
+        "DEFINICIONES": "Categoría taxonómica que agrupa a las especies relacionadas entre sí por medio de la evolución. Así, para el Zamarrito del Pinche- Eriocnemis isabellae, el género es Eriocnemis"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "epiespecifico",
-        "DEFINICIONES": "Nombre científico que hace relación a alguna característica de la especie (lugar, caracteres morfológicos, nombres de científicos).Compuesto por género y epítetio específico (Eriocnemis (género) isabellae (epítetio específico))"
+        "DEFINICIONES": "Adjetivo que integra el nombre científico de una especie resaltando sus características. En la planta Besleria santaclarensis se hace alusión a la vereda Santa Clara (Argelia-Cauca)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "ecosistema",
-        "DEFINICIONES": "Componentes bióticos (seres vivos) y abióticos (no vivos) que ocupan un sitio determinado que establecen relaciones biológicas, físicas y químicas entre ellos"
+        "DEFINICIONES": "Sistema biológico de un lugar determinado conformado por las relaciones que establece una comunidad de organismos vivos con el medio físico que la rodea (p.e. páramos de la Serranía El Pinche)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "bioma",
-        "DEFINICIONES": "Conjunto de ecosistemas que hacen parte de una zona biogeográfica, definido a partir de la vegetación y animales que los componen y sus relaciones con el suelo y el clima"
+        "DEFINICIONES": "Conjunto de ecosistemas que hacen parte de una zona biogeográfica, definido a partir de la vegetación y animales que los componen y sus relaciones con el suelo y el clima (p.e. orobioma andino)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "nombrecomun",
-        "DEFINICIONES": "Denominación con la que se conoce a una especie que no hace relación a su nombre científico"
+        "DEFINICIONES": "Denominación con la que se conoce a una especie localmente no siendo ésta su nombre científico (p.e. Zamarrito del Pinche)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "nomcientifico",
-        "DEFINICIONES": "Nombre que los científicos otorgan a cada especie siguiendo la nomenclatura binomial de Carlos Linneo. Compuesto de género y epiteto específico. Solo se escribe en mayúsculas la primer letra del género. Todo el nombre se escribe en cursiva."
+        "DEFINICIONES": "Nombre que los científicos otorgan a cada especie siguiendo la nomenclatura binomial de Carlos Linneo. Compuesto de género y epiteto específico (p.e. Eriocnemis isabellae)"
     },
     {
-        "TITULO": "Conceptos generales",
+        "TITULO": "CONCEPTOS GENERALES",
         "PALABRAS": "taxon",
         "DEFINICIONES": "Cada una de las subdivisiones de la clasificación biológica, desde la especie, que se toma como unidad, hasta el filo o tipo de organización."
     },
     {
-        "TITULO": "Conceptos generales",
-        "PALABRAS": "riquezaprecisa",
+        "TITULO": "CONCEPTOS GENERALES",
+        "PALABRAS": "riquezaespecie",
         "DEFINICIONES": "Indice de biodiversidad que se basa en el número de especies que habitan en un área determinada. "
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "eriocnemis",
-        "DEFINICIONES": "Flia Trochillidae (colibri) proviene del griego érion:con botas de lana y knēmis:polaina, así, los nombres de especies asociadas se denominan \"Zamarro\", como Zamarrito del Pinche(Eriocnemis isabellae) o Zamarrito de Munchique (Eriocnemis mirabilis)"
+        "TITULO": "CONCEPTOS GENERALES",
+        "PALABRAS": "migratoriaustral",
+        "DEFINICIONES": "aves que migran desde el sur de Surámerica a paises del norte de Suramérica (como Colombia)"
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "isabellae",
-        "DEFINICIONES": "Epíteto de especie Eriocnemis isabellae,en honor a \"Isabella\", nombre de hija de uno de los científicos que reportaron especie como nueva: Alexander Cortes.Especie fue reportada en 2008 por científicos de la Fundación Ecohabitats como nueva especie"
+        "TITULO": "CONCEPTOS GENERALES",
+        "PALABRAS": "migratoriaboreal",
+        "DEFINICIONES": "aves que migran desde Norteamérica a paises de Centroamérica o Suramérica (como Colombia)"
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "peligrocritico",
-        "DEFINICIONES": "Categoría de la lista roja de IUCN que hace referencia a un taxón que está enfrentando un riesgo de extinción extremadamente alto en vida silvestre. El Zamarrito del Pinche (Eriocnemis isabellae) se encuentra En Peligro Crítico."
+        "TITULO": "CONCEPTOS GENERALES",
+        "PALABRAS": "uicn",
+        "DEFINICIONES": "Unión Internacional para la Conservación de la Naturaleza que genera las listas rojas de especies amenazadas a nivel global"
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "endemico",
-        "DEFINICIONES": "Nivel taxonómico cuyo rango de distribución natural está restringida a una zona geográfica determinada.El Zamarrito del Pinche es endémico de los páramos y bosques altoandinos de Serranía El Pinche, no se encuentra en ningún otro lugar del planeta."
+        "TITULO": "CONCEPTOS GENERALES",
+        "PALABRAS": "polinizacion",
+        "DEFINICIONES": "Proceso de transferencia de polen de las flores a los estigmas, que es esencial para la reproducción de muchas plantas y la producción de frutos y semillas"
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "paramomicay",
-        "DEFINICIONES": "Ubicado en nacientes del río San Juan de Micay en Serranía El Pinche, en límites entre departamento del Cauca (Argelia y Balboa) y Nariño (Leyva).Es el habitat del Zamarrito del Pinche (Eriocnemis isabellae), desde 2023 con acuerdo de conservación."
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "frugivoro",
+        "DEFINICIONES": "Aves que se alimentan en forma parcial o exclusiva de frutas. En la Serranía El Pinche el terlaque pechiazul (Andigena nigrirostris) es una de ellas"
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "cerrocalifornia",
-        "DEFINICIONES": "Ubicado en la Cordillera Occidental en límites entre los municipios de Argelia y Balboa (Cauca), donde se desprende Serranía El Pinche.Es el habitat del Zamarrito del Pinche (Eriocnemis isabellae), desde 2023 con acuerdos de conservación."
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "carroñero",
+        "DEFINICIONES": "Aves que se alimentan de animales muertos. En la Serranía El Pinche el gallinazo (Coragyps atratus) es uno de ellos"
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "paramolasoledad",
-        "DEFINICIONES": "Ubicado en Serranía del Pinche en límites entre los municipios de Argelia y Guapi (Cauca). A 2023 con acuerdos de conservación en las veredas El Naranjal y Santa Clara (Argelia-Cauca). Es el habitat del Zamarrito del Pinche (Eriocnemis isabellae)."
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "carnivora",
+        "DEFINICIONES": "Ave que tiene el pico robusto y encorvado y patas con garras muy afiladas que les sirven para cazar a sus presas. En la Serranía El Pinche la lechuza (Megascops choliba) es una de ellas."
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "selvaaltoandina",
-        "DEFINICIONES": "Selvas ubicadas por encima de los 1000 msnm"
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "insectivoro",
+        "DEFINICIONES": "Ave que se alimenta de insectos. En la Serranía El Pinche la elaenia copetona (Elaenia flavogaster) es una de ellas "
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "nectarívoro",
-        "DEFINICIONES": "Animal que se alimenta del néctar de las flores, como aves, insectos o murciélagos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos."
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "granivoro",
+        "DEFINICIONES": "Aves que se alimentan de semillas de plantas (granos). En la Serranía El Pinche la clorofonia ferrugínea (Chlorophonia pyrrhophrys) es una de ellas"
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "trochillidae",
-        "DEFINICIONES": "Nombre de la familia de aves que agrupa los colibries. Proviene del latin trochilus: ave pequeña."
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "generalista",
+        "DEFINICIONES": "Aves que usan distintas técnicas para alimentarse, cambiando su dieta según las condiciones del ambiente. En la Serranía El Pinche el solitario negro (Entomodestes coracinus) es una de ellas"
     },
     {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "bosquenuboso",
-        "DEFINICIONES": " Vive en zonas húmedas de la Cordillera Occidental de los Andes"
-    },
-    {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "pequeño",
-        "DEFINICIONES": "Mide entre 9 y 10 cm de longitud."
-    },
-    {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "rufo",
-        "DEFINICIONES": "Coloración de las plumas de las aves (color rojizo o amarronado) "
-    },
-    {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "colibri",
-        "DEFINICIONES": "Ave de tamaño pequeño que se alimenta de néctar y es capaz de suspenderse en el aire mediante el movimiento de sus alas"
-    },
-    {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "zamarros",
-        "DEFINICIONES": "Los zamarros son un par de abundante plumón blanco en los muslos del colibrí, presente en ambos sexos"
-    },
-    {
-        "TITULO": "Zamarrito del Pinche (Eriocnemis isabellae)",
-        "PALABRAS": "insectívoro",
-        "DEFINICIONES": "Animal que se alimenta de insectos, como aves e insectos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "areaprotegida",
-        "DEFINICIONES": "Espacio geográfico claramente definido, reconocido, dedicado y gestionado legalmente o por otros medios eficaces, con el fin de lograr la conservación a largo plazo de la naturaleza y los servicios de los ecosistemas y valores culturales asociados."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "runap",
-        "DEFINICIONES": "Registro Único Nacional de Áreas Protegidas del Sistema Nacional de Áreas Protegidas, herramienta creada por el Decreto 2372 de 2010 para que las autoridades ambientales de Colombia inscriban y registren las áreas protegidas de su jurisdicción"
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "restauración",
-        "DEFINICIONES": "Acción de recuperar o mejorar un ecosistema o área natural degradada o alterada por actividades humanas, mediante la reintroducción de especies nativas y la recuperación del suelo y la vegetación."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "agroambiental",
-        "DEFINICIONES": "Asociación campesina del municipio de Argelia (Cauca) denominada Asociación Agroambiental Santa Clara Serranía El Pinche que promueve la conservación de Serranía El Pinche y el desarrollo sostenible de sus habitantes"
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "poderambiental",
-        "DEFINICIONES": "Cualquier autoridad de la República que tenga competencia en asuntos ambientales (p.e.Corporaciones Autónomas Regionales, Ministerio de Ambiente).En manejo de Reserva Forestal Protectora Regional Serranía El Pinche, la autoridad ambiental es la CRC"
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "ecohabitats",
-        "DEFINICIONES": "Organización sin ánimo de lucro, su misión es fortalecer la gobernanza comunitaria e institucional para la conservación de la biodiversidad, desarrollo sostenible y adaptación a variabilidad climática."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "sinap",
-        "DEFINICIONES": "Conjunto de áreas protegidas, actores sociales y estrategias e instrumentos de gestión que las articulan. Incluye todas las áreas protegidas de gobernanza pública, privada o comunitaria, y del ámbito de gestión nacional, regional o local."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "selvaandina",
-        "DEFINICIONES": "Con árboles frondosos de altitudes hasta de 30 metros, ubicada desde 1000-1200 msnm hasta 2600 -2700 msnm.En la Serranía El Pinche, se encuentran áreas importantes en las veredas Santa Clara, Lomitas, La Guadua, Pinche, Las Vegas (Argelia-Cauca)."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "paramo",
-        "DEFINICIONES": "Vegetación tipo matorral, con predominio de frailejones, paja o chusque, además de bromelias y musgos. Localizado generalmente en las cimas de las cordilleras después de los 2900 msnm. Son exclusivos de Colombia, Ecuador, Venezuela y norte de Perú."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "plandemanejo",
-        "DEFINICIONES": "Planificación de un área protegida que orienta acciones para conservar ecosistemas, especies y servicios ambientales bajo articulación con diferentes actores sociales e institucionales."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "cauca",
-        "DEFINICIONES": "Uno de los 32 departamentos de Colombia, ubicado en la región suroccidental del país y conocido por su diversidad geográfica y cultural."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "montañas",
-        "DEFINICIONES": "Elevaciones naturales de la tierra con una altitud significativa y una cima más o menos puntiaguda."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "argelia",
-        "DEFINICIONES": "Un municipio del departamento de Cauca en Colombia, ubicado en la región andina del país."
-    },
-    {
-        "TITULO": "Reserva Forestal Protectora Serranía El Pinche",
-        "PALABRAS": "elpinche",
-        "DEFINICIONES": "Ubicado entre los municipios de Argelia, Balboa, Guapi, Timbiquí, El Tambo y López de Micay en el departamento del Cauca, Colombia"
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "educacion",
-        "DEFINICIONES": "Proceso de facilitar el refinamiento de habilidades o capacidades propias del individuo, mediante el aprendizaje o la construcción de conocimientos, así como también de las virtudes, creencias, hábitos, u otras características del ser (Wikipedia)"
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "investigacion",
-        "DEFINICIONES": "Trabajo creativo y sistemático realizado para aumentar os conocimientos​ Implica la recopilación, organización y análisis de información para aumentar la comprensión de un tema o problema (Wikipedia)."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "prevencion",
-        "DEFINICIONES": "Anticiparse, adelantarse, actuar para evitar que ocurra un hecho. En el caso de las áreas protegidas, se busca prevenir amenazas (p.e. incendios, deforestación, caza, pesca)."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "acuerdos",
-        "DEFINICIONES": "Decisión tomada entre dos o más personas, asociaciones o entidades, resultado de un proceso de negociación y deliberación sobre asuntos concretos, determinando una serie de normas o acciones a respetar y ejecutar por las partes para beneficio mutuo."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "incentivos",
-        "DEFINICIONES": "Estimular algo o alguien para que mejore. En el caso de la conservación, los incentivos buscan motivar las personas para que contribuyan a proteger los ecosistemas o especies."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "turismo",
-        "DEFINICIONES": "Actividades que realizan las personas en lugares fuera de su entorno habitual por diferentes motivos. En las áreas protegidas se realiza turismo científico, de descanso, de esparcimiento, de aventura, formativo, entre otros."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "recreacion",
-        "DEFINICIONES": "Actividades que realizan las personas o grupos en la búsqueda de esparcimiento físico y mental, las cuales generan placer, diversión, entretenimiento, entre otros. Las áreas protegidas se convierten así, en escenarios propicios para la recreación."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "proteccion",
-        "DEFINICIONES": "Impedir que una persona o cosa reciba daño o que llegue hasta ella algo que lo produzca. En las áreas protegidas, se protege los ecosistemas y las especies para que éstas puedan subsistir a largo plazo y prestar sus servicios ecosistémicos asociados."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "monitoreo",
-        "DEFINICIONES": "Proceso sistemático y periódico que permite determinar el comportamiento de una variable.En áreas protegidas, se realiza monitoreo a los componentes bióticos o abióticos como indicadores del estado de conservación y efectividad del manejo."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "planificación",
-        "DEFINICIONES": "Proceso metódico para alcanzar un objetivo determinado. En áreas protegidas la planificación busca la conservación a largo plazo y tiene como instrumento al plan de manejo."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "conservación",
-        "DEFINICIONES": "La protección y mantenimiento de los recursos naturales y culturales en una zona protegida"
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "zonificación",
-        "DEFINICIONES": "La división de un área protegida en zonas con diferentes grados de protección y uso"
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "manejo",
-        "DEFINICIONES": "Conjunto de prácticas y técnicas utilizadas para gestionar y conservar los recursos naturales de un área protegida."
-    },
-    {
-        "TITULO": "Acciones en un área protegida",
-        "PALABRAS": "vigilancia",
-        "DEFINICIONES": "ctividad de supervisión y monitoreo constante para detectar, prevenir o disuadir situaciones no deseadas o peligrosas.En áreas protegidas la vigilancia se refleja en los recorridos que realizan en diferentes sectores del área para verificar amenazas."
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "colibri",
-        "DEFINICIONES": "Ave de tamaño pequeño que se alimenta de néctar y es capaz de suspenderse en el aire mediante el movimiento de sus alas"
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "endemico",
-        "DEFINICIONES": "Especie o nivel taxonómico superior cuyo rango de distribución natural está restringida a una zona geográfica determinada.El Zamarrito de Munchique (Eriocnemis mirabilis) es endémico del Cauca (PNN Munchique (El Tambo) y Serranía El Pinche (Argelia))"
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "peligrocritico",
-        "DEFINICIONES": "Categoría de la lista roja de IUCN que hace referencia a un taxón que está enfrentando un riesgo de extinción extremadamente alto en vida silvestre. El Zamarrito de Munchique(Eriocnemis mirabilis) se encuentra En Peligro Crítico."
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "elnaranjal",
-        "DEFINICIONES": "Vereda del municipio de Argelia(Cauca) donde se encuentra La Serranía de Las Nieves, uno de los lugares donde habita el Zamarrito de Munchique.Tiene acuerdo de conservación veredal y hace parte de la Reserva Forestal protectora Serranía El Pinche"
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "laspilas",
-        "DEFINICIONES": "Vereda del municipio de Argelia (Cauca) donde se encuentra Serranía Las Nieves, uno de los lugares donde habita el Zamarrito de Munchique.Tiene acuerdo de conservación veredal y hace parte de la Reserva Forestal Protectora Serranía El Pinche"
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "serranianieves",
-        "DEFINICIONES": "Serranía que se desprende de la Serranía del Pinche y es el único sitio reportado en Argelia (Cauca) donde habita el Zamarrito de Munchique (Eriocnemis mirabilis)"
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "pnnmunchique",
-        "DEFINICIONES": "Área protegida de la Cordillera Occidental en categoría de Parque Nacional Natural donde habita el Zamarrito de Munchique. Se ubica en el municipio de El Tambo (Cauca), conserva selvas inferiores (500 msnm) hasta bosques altoandinos (3000 msnm)."
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "eriocnemis",
-        "DEFINICIONES": "Género de la familia Trochillidae (colibri) que proviene del griego érion: con botas de lana y  knēmis: polaina, por ello, los nombres comunes de las especies asociadas se denominan \"Zamarro\", como el Zamarrito del Pinche o el Zamarrito de Munchique."
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "mirabilis",
-        "DEFINICIONES": "Epítetio específico del Zamarrito de Munchique (Eriocnemis mirabilis). Del latin mirari: admirar, asombrarse, sorprenderse; y bilis: capacidad, aptitud"
-    },
-    {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
         "PALABRAS": "nectarivoro",
-        "DEFINICIONES": "Animal que se alimenta del néctar de las flores, como aves, insectos o murciélagos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos."
+        "DEFINICIONES": "Animal que se alimenta del néctar de las flores (p.e., aves, insectos, murciélagos). El Zamarrito del Pinche (Eriocnemis isabellae) es uno de ellos"
     },
     {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "filtrador",
+        "DEFINICIONES": "Aves que succionan el agua con su lengua, la filtran desechando la arena, atrapando así los microorganismos. En la Serranía El Pinche los patos domésticos (Anas platyrhynchos domesticus) son una de ellas"
+    },
+    {
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "piscivora",
+        "DEFINICIONES": "Aves que se alimentan de peces como el pelícano (Pelecanus occidentalis) que habita en los manglares de la costa pacífica caucana"
+    },
+    {
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "carpintero",
+        "DEFINICIONES": "Ave con pico fuerte, largo y afilado que le permite martillar la madera para alimentarse de larvas y hacer el nido. En la Serranía El Pinche el carpintero ventriamarillo (Veniliornis dignus) es uno de ellos"
+    },
+    {
+        "TITULO": "PICOS DE AVES SEGÚN SU DIETA",
+        "PALABRAS": "limícola",
+        "DEFINICIONES": "Ave que vive en el lodo o limo y se alimenta de moluscos e invertebrados que encuentra en el fango. En la Serranía El Pinche el correlimas sabanero  (Bartramia longicauda) migratoria boreal es una de ellas"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "cerebro",
+        "DEFINICIONES": "Parte del cuerpo del colibrí cuyo peso es 4.2% de su peso corporal total, mucho más grande que otras aves"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "eritrocitos",
+        "DEFINICIONES": "Glóbulos rojos muy pequeños con mayor concentración de éstos en la sangre que cualquier otro animal en el reino animal"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "glandulauropigial",
+        "DEFINICIONES": "Glándula que secreta un aceite ubicada en la parte inferior de la espalda en la parte superior de la cola. El ave toma pequeñas gotas del aceite y lo aplica en sus plumas durante el acicalamiento para protegerlas"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "nictitante",
+        "DEFINICIONES": "Párpado adicional de los ojos de los colibríes formados por una membrana que le permite ver mientras bloquea el viento cuando vuela"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "gorguera",
+        "DEFINICIONES": "Parche brillante con plumas iridiscentes en la garganta de los colibríes utilizado para atraer la hembra"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "dedos",
+        "DEFINICIONES": "Parte del cuerpo con cuatro dedos. El dedo del pie que mira hacia atrás funciona de manera muy similar al pulgar humano, lo que permite que el ave se cuelgue de la rama"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "auriculares",
+        "DEFINICIONES": "Orificio con una cubierta ligera de plumas ubicada en la parte lateral de la cabeza y debajo del ojo que conduce al oido interno"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "huesos",
+        "DEFINICIONES": "Parte del cuerpo de los colibríes caracterizado por ser poroso y huecos en las  patas y alas. Tienen ocho pares de costillas en lugar de seis como otras aves"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "lengua",
+        "DEFINICIONES": "La punta de este órgano está dividida longitudinalmente y cubierta de pequeños “pelos”, lo que les permite absorber la mayor cantidad de néctar posible en cada lamida"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "pico",
+        "DEFINICIONES": "Parte del cuerpo larga y cónica sin dientes cuya forma depende de las flores que polinizan. Picos más largos y curvados hacia abajo para flores tubulares de corola arqueada y pico recto para  flores tubulares pero rectas"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "testiculo",
+        "DEFINICIONES": "Este órgano en el colibrí macho se contrae después de la temporada de cría para conservar el peso. Durante el apareamiento, los espermatozoides fluyen hacia la cloaca, la cual se hincha y sobresale para transferir esperma a la hembra"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "alas",
+        "DEFINICIONES": "Giran estos órganos 180 grados, permitiéndoles generar sustentación en ambos lados del ala para volar hacia atrás, hacia delante y al revés. Estos órganos giran en un patrón ovalado cuando vuelan y en una figura de ocho cuando se desplazan"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "cola",
+        "DEFINICIONES": "Este órgano cuenta con diez plumas timoneras, con cinco en cada lado numerados de adentro hacia afuera como R1 a R5, las cuales les permiten volar hacia arriba, dar equilibrio y maniobrabilidad"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "esternon",
+        "DEFINICIONES": "Hueso hiperdesarrollado donde se unen los músculos pectorales grandes (músculos de vuelo), los cuales pueden representar hasta el 40 por ciento del peso del ave"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "temperatura",
+        "DEFINICIONES": "Variable corporal promedio para un colibrí que es de 40ºC. Por la noche, desciende a la temperatura ambiente, pero nunca por debajo de 18-24ºC"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "ventilacion",
+        "DEFINICIONES": "Los colibríes no transpiran (no sudan). Para disipar el calor tienen sacos de aire conectados a los pulmones que se extienden hasta los huesos huecos permitiéndoles enfriar el cuerpo"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "cloaca",
+        "DEFINICIONES": " Es la única abertura que tiene un ave para fines intestinales y urinarios expulsando una mezcla de desechos líquidos y sólidos. También tiene fines reproductivos"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "besocloacal",
+        "DEFINICIONES": "Nombre dado a la reproducciónde los colibríes que ocurre como resultado de la unión de las cloacas para ransferir los espermatozoides del macho a la hembra"
+    },
+    {
+        "TITULO": "DATOS ASOMBROSOS DEL CUERPO DEL COLIBRI ",
+        "PALABRAS": "patas",
+        "DEFINICIONES": "Parte del cuerpo que no es musculosa, no sirvn para caminar en el suelo, solo para posarse en las ramas. Al hacerlo, el peso del cuerpo presiona los tendones y se bloquean las patas, lo que les impide caerse de las ramas mientras duermen"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "vueloreversa",
+        "DEFINICIONES": "Vuelo que solamente realizan los colibríes (ninguna otra ave) durante cualquier periodo de tiempo dado que pueden rotar sus alas hacia atrás y hacia adelante en ángulo de 180 grados"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "vuelosuspendido",
+        "DEFINICIONES": "La desarrollada capacidad visual del colibrí permite que elija  de forma precisa un punto de referencia en la flor como guía de equilibrio motor logrando un vuelo estático y estable"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "nectarivoro",
+        "DEFINICIONES": "Animal que se alimenta del néctar de las flores (p.e., aves, insectos, murciélagos). El Zamarrito del Pinche (Eriocnemis isabellae) es uno de ellos"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "grancorazon",
+        "DEFINICIONES": "Órgano del colibrí que representa el 2,5% de su peso total. Su frecuencia cardiaca es de 500 o 600 veces por minuto en reposo y más de 1000 si está excitado en disputas con otros colibríes"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "nocamina",
+        "DEFINICIONES": "Actividad que no puede realizar el colibrí debido a sus patas cortas y débiles, por lo que únicamente las utilizan para posarse sobre las ramas, no sobre el suelo"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "apodiformes",
+        "DEFINICIONES": "Orden taxonómico al que pertenecen los colibríes que hace alusión al pequeño tamaño de sus patas (del griego a \"sin\" y podos \"pies\")"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "verluzuv",
+        "DEFINICIONES": "Los colibríes poseen un cuarto cono en la retina del ojo que les permite percibir este espectro de luz usado para encontrar comida, pareja, volar sobre el terreno o escapar de los depredadores"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "torpor",
+        "DEFINICIONES": "Disminución de la tasa metabólica del colibrí (hasta 1/5 de lo normal) para resistir las bajas temperaturas de las noches. Puede generar una pérdida del 10% del peso corporal en la noche"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "dimorfismosexual",
+        "DEFINICIONES": "Variaciones en la fisionomía externa (color, forma, tamaño) entre machos y hembras de una misma especie, como en los colibríes. El macho es más pequeño que la hembra"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "coevolucion",
+        "DEFINICIONES": "Cambio evolutivo recíproco que ha sucedido entre los colibríes y las flores que polinizan, reflejado en las formas de sus picos"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "sacarosa",
+        "DEFINICIONES": "Sustancia orgánica soluble en agua formada por glucosa y fructosa que aporta energía a los colibríes quienes prefieren polinizar flores con néctar que contiene alta proporción de esta sustancia"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "zumbido",
+        "DEFINICIONES": "Sonido emitido por los colibríes producto de fuerzas aerodinámicas generadas por el cambio de presión que tiene lugar cuando el ave mueve sus alas a gran velocidad, por lo cual se les llama zunzunes"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "vuelonocturno",
+        "DEFINICIONES": "Actividad que realiza el colibrí gracias a su córnea agrandada en relación con el diámetro total del ojo que aumenta la cantidad de percepción de luz del ojo cuando la pupila está dilatada al máximo"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "metabolismoalto",
+        "DEFINICIONES": "Característica derivada de la forma de volar del colibrí que le hace consumir una cantidad enorme de energía: Aletean desde 12 hasta 200 veces por segundo y registran 250 respiraciones por minuto"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "poligamo",
+        "DEFINICIONES": "Cualidad de los colibríes donde un macho puede aparearse con varias hembras. Los machos no participan del cuidado de los hijos, solo lo hace la hembra."
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "plumairidiscente",
+        "DEFINICIONES": "Parte del cuerpo del colibrí con células especiales que actúan como prismas que les permite crear un fenómeno óptico: muestran diferentes colores según el ángulo desde el cual se mire"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "lenguabifida",
+        "DEFINICIONES": "Órgano del colibrí que le permite lamer el néctar 13 veces/segundo. Compuesto por tubos semicirculares que se abren por los lados cuando entran en contacto con el néctar y luego se cierran atrapándolo"
+    },
+    {
+        "TITULO": "DATOS CURIOSOS DE LOS COLIBRÍES",
+        "PALABRAS": "ultrasonico",
+        "DEFINICIONES": "Alcance del silbido de los colibríes usado para llamar las hembras. Este tipo de sonido solo se ha visto en algunas especies de búho y solo es reconocible por miembros de su misma especie"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "eriocnemis",
+        "DEFINICIONES": "Género de la familia Trochillidae (colibríes). Su nombre proviene del griego érion:con botas de lana y knēmis:polaina, por ello los denominan \"Zamarro\", como Zamarrito del Pinche (Eriocnemis isabellae) "
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "isabellae",
+        "DEFINICIONES": "Epíteto específico del colibrí de Zamarros del Pinche (Eriocnemis isabellae). Se relaciona con el nombre de la hija de uno de los científicos que reportaron la especie como nueva para la ciencia "
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "peligrocritico",
+        "DEFINICIONES": "Categoría de la lista roja de IUCN que hace referencia a un taxón que está enfrentando un riesgo de extinción extremadamente alto en vida silvestre, como lo es el Zamarrito del Pinche (Eriocnemis isabellae) "
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "endemico",
+        "DEFINICIONES": "Especie o nivel taxonómico superior cuyo rango de distribución natural está restringida a una zona geográfica determinada (p.e. El Zamarrito del Pinche-Eriocnemis isabellae)"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "paramomicay",
+        "DEFINICIONES": "Ecosistema ubicado en nacientes del río San Juan de Micay en la Serranía El Pinche, en límites entre Cauca (Argelia y Balboa) y Nariño (Leyva), habitat del Zamarrito del Pinche (Eriocnemis isabellae)"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "cerrocalifornia",
+        "DEFINICIONES": "Cerro ubicado en la Serranía El Pinche en límites entre los municipios de Argelia y Balboa (Cauca). Es el hábitat del Zamarrito del Pinche (Eriocnemis isabellae)"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "paramolasoledad",
+        "DEFINICIONES": "Ecosistema ubicado en la Serranía El Pinche en límites entre los municipios de Argelia y Guapi (Cauca). Es hábitat del Zamarrito del Pinche (Eriocnemis isabellae)."
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "selvaaltoandina",
+        "DEFINICIONES": "Selva ubicada por encima de los 2800 msnm, con arbustos entre 3 y 8 m de altura con abundancia de epítifitas (bormelias, musgos, líquenes). Es el hábitat del  Zamarrito del Pinche (Eriocnemis isabellae)"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "nectarivoro",
+        "DEFINICIONES": "Animal que se alimenta del néctar de las flores (p.e., aves, insectos, murciélagos). El Zamarrito del Pinche (Eriocnemis isabellae) es uno de ellos"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "trochillidae",
+        "DEFINICIONES": "Nombre de la familia de aves que agrupa los colibries. Proviene del latin trochilus: ave pequeña.  El Zamarrito del Pinche (Eriocnemis isabellae) pertenece a esta familia"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "masacorporal",
+        "DEFINICIONES": "Cantidad de materia de un cuerpo. El Zamarrito del Pinche (Eriocnemis isabellae) presenta una masa corporal entre 4 y 5 gr."
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "pequeño",
+        "DEFINICIONES": "Una de las características del  Zamarrito del Pinche (Eriocnemis isabellae): mide entre 9 y 10 cm de longitud, !cabe en la plama de tu mano!"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "rufo",
+        "DEFINICIONES": "Coloración rojiza o amarronada de las plumas del pecho de la hembra del Zamarrito del Pinche (Eriocnemis isabellae)"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "colibri",
+        "DEFINICIONES": "Ave de tamaño pequeño que se alimenta de néctar y es capaz de suspenderse en el aire mediante el movimiento de sus alas como el Zamarrito del Pinche (Eriocnemis isabellae)"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "zamarros",
+        "DEFINICIONES": "Plumón blanco abundante en los muslos de los colibríes, presente en ambos sexos"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "insectivoro",
+        "DEFINICIONES": "Animal que se alimenta de insectos (p.e. aves). El Zamarrito del Pinche (Eriocnemis isabellae) es uno de ellos"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "carbonero",
+        "DEFINICIONES": "Especie de planta (Bejaria resinosa) que es parte fundamental de la dieta del Zamarrito del Pinche (Eriocnemis isabellae)"
+    },
+    {
+        "TITULO": "ZAMARRITO DEL PINCHE (Eriocnemis isabellae)",
+        "PALABRAS": "incendioforestal",
+        "DEFINICIONES": "Fuego que se extiende libremente sin control ni límites preestablecidos, destruyendo vegetación y vida silvestre. Es una de las amenazas del Zamarrito del Pinche (Eriocnemis isabellae)"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "colibri",
+        "DEFINICIONES": "Ave de tamaño pequeño que se alimenta de néctar y es capaz de suspenderse en el aire mediante el movimiento de sus alas como el Zamarrito de Munchique (Eriocnemis mirabilis)"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "endemico",
+        "DEFINICIONES": "Especie cuyo rango de distribución natural está restringida a una zona geográfica (p.e. El Zamarrito de Munchique -Eriocnemis mirabilis habita el PNN Munchique y la Serranía El Pinche)"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "peligrocritico",
+        "DEFINICIONES": "Categoría de la lista roja de IUCN que hace referencia a un taxón que está enfrentando un riesgo de extinción extremadamente alto en vida silvestre como lo es el Zamarrito de Munchique (Eriocnemis mirabilis)"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "elnaranjal",
+        "DEFINICIONES": "Vereda del municipio de Argelia(Cauca) que hace parte de La Serranía de Las Nieves, uno de los habitats del Zamarrito de Munchique (Eriocnemis mirabilis)"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "laspilas",
+        "DEFINICIONES": "Vereda del municipio de Argelia (Cauca) donde habita el Zamarrito de Munchique (Eriocnemis mirabilis)  en límites con la vereda El Naranjal"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "serranianieves",
+        "DEFINICIONES": "Serranía que se desprende de la Serranía del Pinche (Cordillera Occidental). Es el único sitio reportado en Argelia (Cauca) donde habita el Zamarrito de Munchique (Eriocnemis mirabilis)"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "pnnmunchique",
+        "DEFINICIONES": "Área protegida de la Cordillera Occidental en categoría de Parque Nacional Natural donde habita el Zamarrito de Munchique (Eriocnemis mirabilis)"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "eriocnemis",
+        "DEFINICIONES": "Género de la familia Trochillidae (colibríes). Su nombre proviene del griego érion:con botas de lana y knēmis:polaina, por ello los denominan \"Zamarro\", como Zamarrito de Munchique (Eriocnemis mirabilis) "
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "mirabilis",
+        "DEFINICIONES": "Epítetio específico del Zamarrito de Munchique. Proviene del latin mirari: admirar, asombrarse, sorprenderse; y bilis: capacidad, aptitud"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "nectarivoro",
+        "DEFINICIONES": "Animal que se alimenta del néctar de las flores (p.e., aves, insectos, murciélagos). El Zamarrito de Munchique (Eriocnemis mirabilis) es uno de ellos"
+    },
+    {
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
         "PALABRAS": "elplayon",
         "DEFINICIONES": "Única localidad del Parque Nacional Natural Munchique (El Tambo-Cauca) donde se ha reportado el Zamarrito de Munchique (Eriocnemis mirabilis)."
     },
     {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
         "PALABRAS": "zamarros",
-        "DEFINICIONES": "Los zamarros son un par de abundante plumón blanco en los muslos del colibrí, presente en ambos sexos"
+        "DEFINICIONES": "Plumón blanco abundante en los muslos de los colibríes, presente en ambos sexos"
     },
     {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
         "PALABRAS": "trochillidae",
-        "DEFINICIONES": "Nombre de la familia de aves que agrupa los colibries. Proviene del latin trochilus: ave pequeña."
+        "DEFINICIONES": "Nombre de la familia de aves que agrupa los colibries. Proviene del latin trochilus: ave pequeña.  El Zamarrito de Munchique (Eriocnemis mirabilis) pertenece a esta familia"
     },
     {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "eriocnemis",
-        "DEFINICIONES": "Género de la familia Trochillidae (colibri) que proviene del griego érion: con botas de lana y knēmis: polaina, por ello, los nombres comunes de las especies asociadas se denominan \"Zamarro\", como el Zamarrito del Pincheo el Zamarrito de Munchique."
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "parameromunchique",
+        "DEFINICIONES": "Uno de los tantos nombres que recibe el Zamarrito de Munchique (Eriocnemis mirabilis), este en especial lo recibe por el ecosistema en el que habita"
     },
     {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
         "PALABRAS": "esmeraldita",
-        "DEFINICIONES": "Uno de los tantos nombres que recibe el zamarrito de Munchique, este en especial lo recibe por el color de su frente; verde esmeralda."
+        "DEFINICIONES": "Uno de los tantos nombres que recibe el Zamarrito de Munchique (Eriocnemis mirabilis), este en especial lo recibe por el color de su frente, verde esmeralda"
     },
     {
-        "TITULO": "Zamarrito de Munchique (Eriocnemis mirabilis)",
-        "PALABRAS": "insectívoro",
-        "DEFINICIONES": "Animal que se alimenta de insectos, como aves e insectos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos."
+        "TITULO": "ZAMARRITO DE MUNCHQUE (Eriocnemis mirabilis)",
+        "PALABRAS": "insectivoro",
+        "DEFINICIONES": "Animal que se alimenta de insectos (p.e.aves). El Zamarrito de Munchique (Eriocnemis mirabilis) es uno de ellos."
     },
     {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "selvaandina",
-        "DEFINICIONES": "Presente en regiones montañosas de los Andes tropicales de Sudamérica, entre los 1000 y los 3000 metros sobre el nivel del mar.En Serranía El Pinche, se encuentra áreas en las veredas Santa Clara, Lomitas, La Guadua, Pinche, Las Vegas (Argelia-Cauca)"
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "selvaltoandina",
-        "DEFINICIONES": " ubicados desde los 2900 - 3800 msnm que se caracterizan como un estrato de árboles y arbustos entre 3 y 8 m de alto"
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "paramo",
-        "DEFINICIONES": "Vegetación tipo matorral, con predominio de frailejones, paja o chusque, además de bromelias y musgos. Localizado generalmente en las cimas de las cordilleras después de los 2900 msnm. Son exclusivos de Colombia, Ecuador, Venezuela y norte de Perú."
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "lagunas",
-        "DEFINICIONES": "Depósito natural de agua de poca profundidad. Son hábitats muy importantes para peces, microorganismos y aves"
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "humedales",
-        "DEFINICIONES": "Extensiones de pantanos y turberas, o superficies cubiertas de aguas, régimen natural o artificial, permanentes o temporales, estancadas o corrientes, dulces, saladas, incluidas extensiones de agua marina cuya profundidad en marea baja no exceda 6m"
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "robledales",
-        "DEFINICIONES": "sitio donde se encuentran bosques dominados por el árbol de roble (Quercus humboldtii). En la Serranía El Pinche (El Naranjal) los cientificos reportaron en los 1990´s grandes robledales, únicos del suroccidente colombiano."
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "riomicay",
-        "DEFINICIONES": "Uno de los ríos tributarios del Océano Pacífico,nace en vereda Nuevo Horizonte (Argelia-Cauca).Los ríos tributarios conforman todos los existentes en el municipio de Argelia, el flanco occidental del municipio El Tambo y  municipio de López de Micay"
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "rioguaitara",
-        "DEFINICIONES": "Uno de los ríos tributarios del Océano Pacífico, recorre aproximadamente 45 kilómetros de territorio ecuatoriano,pasa entre las cordilleras andinas Central y Occidental hasta desembocar en el río Patía."
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "rioguapi",
-        "DEFINICIONES": "Uno de los tributarios directos del Océano Pacífico, conformado por las subcuencas de los ríos Guapi y río Güaji.En Serranía El Pinche nacen los ríos Anapanchí y San Francisco, tributarios del río Guapi donde viven comunidades afrocolombianas"
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "cordillera",
-        "DEFINICIONES": "Una cadena montañosa larga y estrecha que se extiende a lo largo de una región, con picos altos y escarpados y una gran cantidad de valles y cañones."
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "bosque ",
-        "DEFINICIONES": "Un ecosistema terrestre con una alta densidad de árboles y vegetación arbórea, que proporciona refugio y alimento a una gran cantidad de fauna."
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "sabana",
-        "DEFINICIONES": "Ecosistema caracterizado por hierbas y arbustos dispersos con pocos árboles, que se encuentra en regiones tropicales y subtropicales."
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "riotimbiqui",
-        "DEFINICIONES": "ubicado en el Departamento del Cauca, Colombia, que nace en la Serranía del Pinche, entre los municipios de Argelia y Timbiquí, y desemboca en el Océano Pacífico."
-    },
-    {
-        "TITULO": "Ecosistemas Serranía El Pinche",
-        "PALABRAS": "estrellafluvial",
-        "DEFINICIONES": "Zona montañosa que se produce nacimiento de varios ríos.Serranía El Pinche al desprenderse de la Cordillera Occidental conforma una estrella fluvial donde nacen ríos como San Juan del Micay y principales tributarios de ríos Guapi, Timbiquí y Patía."
-    },
-    {
-        "TITULO": "Serranía El Pinche",
+        "TITULO": "SERRANÍA EL PINCHE",
         "PALABRAS": "cordioccidental",
-        "DEFINICIONES": "Cordillera que se extiende desde el nudo de los Pastos (Nariño) hasta el nudo de Paramillo en Antioquia y Córdoba."
+        "DEFINICIONES": "Cordillera colombiana que nace en el Nudo de Los Pastos (Nariño) y termina en el Nudo de Paramillo (Antioquia y Córdoba). De ésta se desprende la Serranía El Pinche en el Cauca"
     },
     {
-        "TITULO": "Serranía El Pinche",
-        "PALABRAS": "guapi",
-        "DEFINICIONES": "Municipio del departamento del Cauca ubicado en la región pacífica. La Serrania El Pinche constituye el límite divisorio de los municipios de Guapi, Timbiquí y Argelia (Cauca)"
-    },
-    {
-        "TITULO": "Serranía El Pinche",
-        "PALABRAS": "timbiqui",
-        "DEFINICIONES": "Municipio del departamento del Cauca ubicado en la región pacífica. La Serrania El Pinche constituye el límite divisorio de los municipios de Guapi, Timbiquí y Argelia (Cauca)"
-    },
-    {
-        "TITULO": "Serranía El Pinche",
+        "TITULO": "SERRANÍA EL PINCHE",
         "PALABRAS": "argelia",
-        "DEFINICIONES": "Municipio del departamento del Cauca ubicado en la región pacífica. La Serrania El Pinche constituye el límite divisorio de los municipios de Guapi, Timbiquí y Argelia (Cauca)"
+        "DEFINICIONES": "Municipio del departamento de Cauca (Colombia) ubicado en la Cordillera Occidental cuyo límite con los municipios de Guapi y Timbiquí es la Serranía El Pinche"
     },
     {
-        "TITULO": "Serranía El Pinche",
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "guapi",
+        "DEFINICIONES": "Municipio del departamento de Cauca (Colombia) ubicado en la Cordillera Occidental que hace parte de la Serranía El Pinche y limita con los municipios de Argelia, Timbiqui (Cauca) y El Charco (Nariño)"
+    },
+    {
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "timbiqui",
+        "DEFINICIONES": "Municipio del departamento de Cauca (Colombia) ubicado en la Cordillera Occidental que hace parte de la Serranía El Pinche y limita con los municipios de Argelia, Guapi, López de Micay (Cauca) "
+    },
+    {
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "campesinos",
+        "DEFINICIONES": "Sujeto intercultural, que se identifica como tal; involucrado vitalmente en el trabajo directo con la tierra y la naturaleza"
+    },
+    {
+        "TITULO": "SERRANÍA EL PINCHE",
         "PALABRAS": "vidasilvestre",
         "DEFINICIONES": "Seres vivos (animales, plantas, hongos) no domesticados que habitan un ecosistema natural sin haber sido introducidos allí por el ser humano"
     },
     {
-        "TITULO": "Serranía El Pinche",
+        "TITULO": "SERRANÍA EL PINCHE",
         "PALABRAS": "oceanopacifico",
-        "DEFINICIONES": "Es el más grande y profundo de la Tierra."
+        "DEFINICIONES": "Masa de agua salada nombrada por Fernando Magallanes en 1520 por sus aguas tranquilas. Es el más grande y profundo de la Tierra y en él desemboca el río San Juan del Micay"
     },
     {
-        "TITULO": "Serranía El Pinche",
+        "TITULO": "SERRANÍA EL PINCHE",
         "PALABRAS": "cerronapi",
-        "DEFINICIONES": "Está situado en el departamento del Cauca, Región Pacífica, cerca de la aldea San Francisco y del Corregimiento de Santa Clara (Argelia-Cauca)"
+        "DEFINICIONES": "Cerro situado en la Serranía El Pinche en el municipio de Guapi (Cauca) que supera los 3700 msnm donde nacen los tributarios del río Napi"
     },
     {
-        "TITULO": "Serranía El Pinche",
+        "TITULO": "SERRANÍA EL PINCHE",
         "PALABRAS": "cerropinche",
-        "DEFINICIONES": "Está situado en el departamento del Cauca, Región Pacífica, cerca de la Vereda Pambila y El Crucero (Plateado-Cauca)"
+        "DEFINICIONES": "Cerro de la Serranía El Pinche ubicado en la vereda La Guadua-Pinche (Argelia) y el Consejo Comunitario Renacer Negro (Timbiquí) alcanzando 3000 msnm. En él nacen los tributarios del río Saija y el río Pinche"
     },
     {
-        "TITULO": "Serranía El Pinche",
+        "TITULO": "SERRANÍA EL PINCHE",
         "PALABRAS": "cerrocalifornia",
-        "DEFINICIONES": "Situado en el dpto del Cauca, Región Pacífica, clasifica como paramo, esta cerca de las comunidades campesinas de las veredas Mesón Alto, Zarzal, La Laguna y La Esperanza (Argelia-Cauca) y veredas La Floresta, San Antonio y Altamira (Balboa-Cauca)"
+        "DEFINICIONES": "Cerro de la Serranía El Pinche ubicado entre los municipios de Argelia y Balboa (Cauca) donde nace el río Turbio que drena a El Patía y la quebrada El Letrero que drena al río San Juan del Micay"
     },
     {
-        "TITULO": "Serranía El Pinche",
+        "TITULO": "SERRANÍA EL PINCHE",
         "PALABRAS": "serranianieves",
-        "DEFINICIONES": "Ubicada entre municipios de Argelia, Balboa, Guapi, Timbiquí, El Tambo y López de Micay. Territorio de gran biodiversidad alberga varios ecosistemas únicos y estratégicos, incluyendo páramos, bosques nativos, bosques de niebla, andinos y altoandinos"
+        "DEFINICIONES": "Serranía que se desprende de la Serranía del Pinche hacia el río San Juan del Micay (Cordillera Occidental) alcanzando una altitud de 2600 msnm. Es el límite entre Santa Clara, Lucitania, Las Pilas y El Naranjal (Argelia-Cauca). Nacen afluentes de los ríos Santa Clara y Guaítara"
     },
     {
-        "TITULO": "Serranía El Pinche",
-        "PALABRAS": "cerroplateado",
-        "DEFINICIONES": "Está situado en el departamento del Cauca, Región Pacífica,tiene una altitud de 1.826 metros, en las veredas El Diviso y El Naranjal (Argelia -Cauca)."
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "consejonapi",
+        "DEFINICIONES": "Consejo Comunitario Río Napi (Timbiquí) habitado por afrodescendientes cuyo límite con Argelia es la divisoria de aguas de la Serranía El Pinche. Son vecinos de los campesinos de El Naranjal y Las Pilas"
     },
     {
-        "TITULO": "Serranía El Pinche",
-        "PALABRAS": "reserva ",
-        "DEFINICIONES": "Área protegida en la que se busca preservar la biodiversidad y los recursos naturales."
-    },
-    {
-        "TITULO": "Serranía El Pinche",
+        "TITULO": "SERRANÍA EL PINCHE",
         "PALABRAS": "serrania ",
-        "DEFINICIONES": "Zona montañosa con elevaciones abruptas y pronunciadas."
+        "DEFINICIONES": "Conjunto de montañas que se desprende de una cordillera, presentando elevaciones abruptas y pronunciadas de apariencia aserrada"
     },
     {
-        "TITULO": "Serranía El Pinche",
-        "PALABRAS": "salvaje",
-        "DEFINICIONES": "La Serranía El Pinche es un lugar salvaje y hermoso, donde la naturaleza aún se encuentra relativamente intacta. Es hogar de una amplia variedad de animales y plantas nativas.Como El Zamarrito del Pinche y el Zamarrito de Munchique"
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "cerroplateado",
+        "DEFINICIONES": "Cerro de la Serranía El Pinche que marca el límite entre los municipios de Argelia y El Tambo (Cauca) alcanzando los 2800 msnm. Allí nace el río El Plateado que desemboca en el rió San Juan del Micay"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "cabeza",
-        "DEFINICIONES": "Estructura formada por el craneo, ojos, lengua bífida, musculos que controlan la lengua y pico"
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "cerrolasvacas",
+        "DEFINICIONES": "Cerro de la Serranía El Pinche ubicado entre las veredas El Naranjal (Argelia-Cauca) en límites con el municipio de Timbiquí alcanzando 3500 msnm. Allí nace el río Guaitara, tributario del río San Juan del Micay "
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "cuello",
-        "DEFINICIONES": "Casi siempre es un color diferente al del cuerpo,el cuello de los machos es frecuentemente rojo brillante, azul o verde esmeralda."
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "consejoaltoguapi",
+        "DEFINICIONES": "Consejo Comunitario Alto Guapi (Timbiquí) que hace parte de la Serranía El Pinche pero no limita con Argelia (Cauca), habitado por comunidades afrodescendientes"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "cerebro",
-        "DEFINICIONES": "El peso del cerebro del colibrí es 4.2% de su peso corporal total, mucho más grande que otras aves."
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "consejosnfrancisco",
+        "DEFINICIONES": "Consejo Comunitario San Francisco (Timbiquí) habitado por afrodescendientes cuyo límite con Argelia es la divisoria de aguas de la Serranía El Pinche. Son vecinos de los campesinos de El Naranjal"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "párpados",
-        "DEFINICIONES": "Párpados externos (superior e inferior) para bloquear la luz. Tienen un par adicional  llamados membrana nictitante. Estos son claros y permiten que el colibrí vea mientras bloquea el viento cuando vuela."
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "consejo renacer",
+        "DEFINICIONES": "Consejo Comunitario Renacer Negro (Timbiquí) habitado por afrodescendientes cuyo límite con Argelia es la divisoria de aguas de la Serranía El Pinche. Son vecinos de los campesinos de Santa Clara y La Guadua-Pinche"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "visión",
-        "DEFINICIONES": "Una excelente visión y pueden ver la luz ultravioleta, lo que hace que su mundo sea aún más colorido que el nuestro."
+        "TITULO": "SERRANÍA EL PINCHE",
+        "PALABRAS": "consejocopdiconc",
+        "DEFINICIONES": "Consejo Comunitario Cordillera Occidental de Nariño que hace parte de la Serranía El Pinche, habitado por afrodescendientes vecinos de los campesinos de El Naranjal, San Juan del Cucho y Nuevo Horizonte (Argelia) y Montaña Negra (Balboa)"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "gorgera",
-        "DEFINICIONES": "Es el parche de color brillante en la garganta del colibrí macho."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "selvaandina",
+        "DEFINICIONES": "Con árboles frondosos de altitudes hasta de 30 m, ubicada desde 1000-1200 msnm hasta 2600 -2700 msnm. Se presenta en la Serranía El Pinche, vereda Santa Clara (Argelia), en Guapi y Timbiqui"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "esófago",
-        "DEFINICIONES": "Es la parte del sistema digestivo que conecta la garganta del ave con el cultivo."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "selvaaltoandina",
+        "DEFINICIONES": "Selva ubicada por encima de los 2800 msnm, con arbustos entre 3 y 8 m de altura con abundancia de epítifitas (bormelias, musgos, líquenes). "
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "occipucio",
-        "DEFINICIONES": "Parte de la cabeza por donde esta se une con las vértebras del cuello."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "paramo",
+        "DEFINICIONES": "Vegetación tipo matorral, con predominio de frailejones, paja o chusque, además de bromelias y musgos. Localizado generalmente en las cimas de las cordilleras después de los 2900 msnm. Son exclusivos de Colombia, Ecuador, Venezuela y norte de Perú."
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "auriculares",
-        "DEFINICIONES": "Excelente audición. Sus orejas no tienen lóbulos de oreja, sino agujeros con una cubierta ligera de plumas. Pueden escuchar pequeños cambios en el tono mejor que los humanos."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "lagunas",
+        "DEFINICIONES": "Depósito natural de agua de poca profundidad. Son hábitats muy importantes para peces, microorganismos y aves"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "huesos",
-        "DEFINICIONES": "Son livianos para garantizar su maniobrabilidad. Los huesos de sus patas y alas son huecos y la mayoría de sus otros huesos son porosos."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "humedales",
+        "DEFINICIONES": "Extensiones de pantanos y turberas, o superficies cubiertas de aguas, régimen natural o artificial, permanentes o temporales, estancadas o corrientes, dulces, saladas, incluidas extensiones de agua marina cuya profundidad en marea baja no exceda 6m"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "lengua",
-        "DEFINICIONES": "La lengua de un colibrí es capaz de doblar néctar a una velocidad de hasta 18 veces por segundo. El pájaro puede extender su lengua hasta donde la cuenta es larga. lengua bifurcada(divivida en dos partes) "
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "robledales",
+        "DEFINICIONES": "sitio donde se encuentran bosques dominados por el árbol de roble (Quercus humboldtii). En la Serranía El Pinche (El Naranjal) los cientificos reportaron en los 1990´s grandes robledales, únicos del suroccidente colombiano."
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "pico",
-        "DEFINICIONES": "largo y cónico, deben ser capaces de alimentarse con este diseño de tubo largo, debido al tipo de dieta que tienen (polen, néctar, savia de los árboles e insectos). "
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "riomicay",
+        "DEFINICIONES": "Uno de los ríos tributarios del Océano Pacífico,nace en vereda Nuevo Horizonte (Argelia-Cauca).Los ríos tributarios conforman todos los existentes en el municipio de Argelia, el flanco occidental del municipio El Tambo y  municipio de López de Micay"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "riñones",
-        "DEFINICIONES": "Su función es excretar el exceso de agua. Sus riñones no son efectivos para concentrar la orina."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "rioguaitara",
+        "DEFINICIONES": "Uno de los ríos tributarios del río San Juan del Micay que nace en el páramo La Soledad y atraviesa la vereda El Naranjal (Argelia-Cauca)"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "alas",
-        "DEFINICIONES": "Son únicas en el mundo de las aves y Las alas baten de 15 a 80 latidos / segundo."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "rioguapi",
+        "DEFINICIONES": "Uno de los tributarios directos del Océano Pacífico, conformado por las subcuencas de los ríos Guapi y río Güaji.En Serranía El Pinche nacen los ríos Anapanchí y San Francisco, tributarios del río Guapi donde viven comunidades afrocolombianas"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "cola",
-        "DEFINICIONES": "Los colibríes tienen diez plumas de cola (llamadas retrices), cinco en cada lado. Estos están numerados de adentro hacia afuera como R1 a R5. "
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "bosquegaleria",
+        "DEFINICIONES": "Franjas estrechas de bosque ubicado a lo largo de las márgenes de los ríos, de gran importancia porque conectan los bosques de las partes altas con los de las partes medias y bajas"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "esternón",
-        "DEFINICIONES": "Hueso  donde se unen los músculos pectorales grandes (músculos de vuelo)."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "bosque ",
+        "DEFINICIONES": "Un ecosistema terrestre con una alta densidad de árboles y vegetación arbórea, que proporciona refugio y alimento a una gran cantidad de fauna."
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "uréteres",
-        "DEFINICIONES": "Tubos delgados que conectan los riñones con la cloaca. Transportan el agua que los riñones eliminan del sistema."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "pastizal",
+        "DEFINICIONES": "Ecosistema donde predomina la vegetación herbácea, pudiendo ser de origen natural como en los Llanos Orientales o antrópico como cuando se deforesta un bosque para establecer un pastizal para ganadería"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "supracaudales",
-        "DEFINICIONES": "Son las plumas pequeñas que cubren por encima la base de las plumas rectrices o timoneras de la cola "
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "riotimbiqui",
+        "DEFINICIONES": "Río ubicado en el Departamento del Cauca, Colombia, que nace en la Serranía del Pinche, en el municipio de Timbiquí y desemboca en el Océano Pacífico"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "infracaudales",
-        "DEFINICIONES": "Son las plumas pequeñas que cubren por debajo la base de las plumas rectrices o timoneras de la cola"
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "estrellafluvial",
+        "DEFINICIONES": "Zona montañosa que se produce nacimiento de varios ríos. Serranía El Pinche conforma una estrella fluvial donde nacen ríos como San Juan del Micay y principales tributarios de ríos Guapi, Timbiquí y Patía."
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "cloaca",
-        "DEFINICIONES": " Es la única abertura que tiene un ave para fines intestinales, urinarios y reproductivos. Mezcla de desechos líquidos y sólidos aquí y son expulsados, en realidad \"disparados\" del cuerpo."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "monocultivos",
+        "DEFINICIONES": "Sistema de producción agrícola que consiste en cultivar una única especie vegetal en una extensión de tierra determinada"
     },
     {
-        "TITULO": "Partes de un colibri: Todo el cuerpo",
-        "PALABRAS": "piernas",
-        "DEFINICIONES": "No son musculosos para saltar o caminar Y  se usan solo para posarse."
+        "TITULO": "ECOSISTEMAS SERRANÍA EL PINCHE",
+        "PALABRAS": "rastrojos",
+        "DEFINICIONES": "Porción de terreno que después de haber sido utilizada para cultivo o ganadería se deja en recuperación durante un tiempo"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "frugívoro",
-        "DEFINICIONES": "Animales que se alimentan en forma parcial o exclusiva, de frutas."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "areaprotegida",
+        "DEFINICIONES": "Espacio geográfico claramente definido, reconocido, dedicado y gestionado legalmente o por otros medios eficaces, con el fin de lograr la conservación a largo plazo de la naturaleza, los servicios de los ecosistemas y valores culturales asociados"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "carroñero",
-        "DEFINICIONES": "Animales que se alimentan de animales muertos. "
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "runap",
+        "DEFINICIONES": "Registro Único Nacional de Áreas Protegidas del Sistema Nacional de Áreas Protegidas de Colombia, donde las autoridades ambientales inscriben y registran sus áreas protegidas"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "rapaz",
-        "DEFINICIONES": "Aves de presa, generalmente de los órdenes Falconiformes y Estrigiformes."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "restauracion",
+        "DEFINICIONES": "Acción de recuperar o mejorar un ecosistema o área natural degradada o alterada por actividades humanas, mediante la reintroducción de especies nativas y la recuperación del suelo y la vegetación"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "insectivoro",
-        "DEFINICIONES": "Ser vivo que se alimenta de invertebrados, principalmente de insectos, pero también de arácnidos, caracoles y gusanos."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "agroambiental",
+        "DEFINICIONES": "Asociación Agroambiental Santa Clara Serranía El Pinche, grupo de campesinos de Argelia (Cauca) que promueve la conservación de la Serranía El Pinche"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "granivoro",
-        "DEFINICIONES": "Animales que tienen como alimento principal o exclusivo las semillas de plantas (granos). "
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "autoridadambiental",
+        "DEFINICIONES": "Entidad gubernamental con competencia en asuntos ambientales (p.e.Corporaciones Autónomas Regionales, Minambiente). Para la Reserva Forestal Protectora Regional Serranía El Pinche es la CRC"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "omnívoro",
-        "DEFINICIONES": "Animal que se alimenta tanto de carne como de plantas."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "ecohabitats",
+        "DEFINICIONES": "Organización sin ánimo de lucro que trabaja desde los 1990s en la Serranía El Pinche. Busca fortalecer la gobernanza comunitaria e institucional para la conservación de la biodiversidad"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "coprófago",
-        "DEFINICIONES": "Animal que se alimenta de heces fecales."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "sinap",
+        "DEFINICIONES": "Sistema Nacional de Áreas Protegidas de Colombia. Es el conjunto de áreas protegidas, actores sociales y estrategias e instrumentos de gestión que las articulan. "
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "necrófago",
-        "DEFINICIONES": "Animal que se alimenta de animales muertos o en descomposición."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "selvaandina",
+        "DEFINICIONES": "Con árboles frondosos de altitudes hasta de 30 m, ubicada desde 1000-1200 msnm hasta 2600 -2700 msnm. Se presenta en la Serranía El Pinche, vereda Santa Clara (Argelia), en Guapi y Timbiqui"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "hervivoro",
-        "DEFINICIONES": "Animal que se alimenta principalmente de plantas y hierbas."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "paramo",
+        "DEFINICIONES": "Vegetación tipo matorral con predominio de frailejones, paja o chusque, cubriendo las cimas de las cordilleras después de 2900 msnm. Exclusivos de Colombia, Ecuador, Venezuela y norte de Perú."
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "micelio",
-        "DEFINICIONES": "Conjunto de filamentos que componen el cuerpo de los hongos, utilizado como alimento por algunas aves."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "plandemanejo",
+        "DEFINICIONES": "Instrumento de planificación de un área protegida que orienta acciones para conservar ecosistemas, especies y servicios ambientales en articulación con actores sociales e institucionales."
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "azucar",
-        "DEFINICIONES": "Componente principal del néctar, que proporciona energía a los colibríes. El alto contenido de azúcar en el néctar es esencial para satisfacer las necesidades energéticas de los colibríes, ya que tienen un metabolismo muy rápido."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "cauca",
+        "DEFINICIONES": "Uno de los 32 departamentos de Colombia conocido por su diversidad geográfica y cultural. En él se encuentra la Reserva Forestal Protectora Regional Serranía El Pinche (Argelia)"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "nectarina",
-        "DEFINICIONES": "Término que se utiliza para describir la dieta de los colibríes."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "cordilloccidental",
+        "DEFINICIONES": "Cordillera colombiana que nace en el Nudo de Los Pastos (Nariño) y termina en el Nudo de Paramillo (Antioquia y Córdoba). De ésta se desprende la Serranía El Pinche en el Cauca"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "nectarivoro",
-        "DEFINICIONES": "Animal que se alimenta del néctar de las flores, como aves, insectos o murciélagos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "declaracion",
+        "DEFINICIONES": "Acto jurídico por medio del cual se crea un área protegida pudiendo ser una resolución (Minambiente) o un acuerdo (Corporación Autónoma Regional)"
     },
     {
-        "TITULO": "Picos de aves y su dieta",
-        "PALABRAS": "ramoneo",
-        "DEFINICIONES": "Forma de alimentación en que un herbívoro se alimenta de hojas, brotes tiernos o frutos de plantas de alto crecimiento, generalmente leñosas, como los arbustos."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "RFPRPinche",
+        "DEFINICIONES": "Reserva Forestal Protectora Regional Serranía El Pinche, área protegida creada  en el 2008 por acuerdo del consejo directivo de la Corporación Autónoma Regional del Cauca"
     },
     {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "vueloreversa",
-        "DEFINICIONES": "Los colibríes son las únicas aves que pueden volar en reversa, manteniendo su cuerpo mucho más recto, porque la resistencia del aire es apenas ligeramente mayor que en el caso del vuelo hacia adelante."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "veredas",
+        "DEFINICIONES": "División territorial de los corregimientos en Colombia que agrupa familias que comparten objetivos de desarrollo y un espacio geográfico. La RFPR Serranía El Pinche está integrada por las veredas Santa Clara y Naranjal"
     },
     {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "vuelosuspendido",
-        "DEFINICIONES": "Un ¿a parte diminuta de cerebro del colibrí  le permite permanecer suspendido en el aire para libar el néctar de las flores."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "objetivosconserva",
+        "DEFINICIONES": "Objetivos de conservación que se definen en un área protegida para orientar su manejo según sus características principales (p.e. biodiversidad, servicios ecosistémicos, valores culturales)"
     },
     {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "nectarívoro",
-        "DEFINICIONES": "Aves que se alimentan de néctar. El Zamarrito del Pinche (Eriocnemis isabellae) es uno de ellos."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "plandeaccion",
+        "DEFINICIONES": "Acciones que se definen en un plan de manejo para garantizar la conservación de un área protegida a corto, mediano y largo plazo"
     },
     {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "grancorazon",
-        "DEFINICIONES": "Frecuencia cardiaca de 500 o 600 veces por min en reposo y más de 1000 si está excitado en disputas con otros colibríes. El colibrí es un pájaro de gran corazón, un 2.5 % de su peso total."
+        "TITULO": "RESERVA FORESTAL PROTECTORA SERRANÍA EL PINCHE",
+        "PALABRAS": "comitetecnico",
+        "DEFINICIONES": "Instancia de manejo de la RFPR Serranía El Pinche conformada por la CRC y AsoAgroambiental Santa Clara Serranía El Pinche donde se toman decisiones para implementar el plan de manejo del área protegida"
     },
     {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "patapequeña",
-        "DEFINICIONES": "Las patas son cortas y débiles, por lo que únicamente las utilizan para posarse y no para caminar"
-    },
-    {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "cuatrodedos",
-        "DEFINICIONES": "Reducido tamaño de sus patas(4 dedos) por el poco desarrollo que presentan;no es raro que el orden al que pertenecen, Apodiformes,provenga del griego y signifique “sin pies”.Los colibríes no pueden caminar sobre el suelo, se posarse sobre las ramas. "
-    },
-    {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "verluzuv",
-        "DEFINICIONES": "Los colibríes ven una variedad de colores combinados que involucran a los rayos UV a los que los humanos son ciegos, Gracias a esta visión pueden encontrar comida, pareja, volar sobre el terreno o escapar de los depredadores. "
-    },
-    {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "torpor",
-        "DEFINICIONES": "Disminución de actividad fisiológica en un animal que le permite sobrevivir en tiempos de carestía de alimentos"
-    },
-    {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "dualidadsexual",
-        "DEFINICIONES": "Variaciones en la fisionomía externa (color, forma, tamaño) entre machos y hembras de una misma especie. Característica presentada por el Zamarrito del Pinche (Eriocnemis isabellae) al igual que otros colibríes."
-    },
-    {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "coevolución",
-        "DEFINICIONES": "Cambio evolutivo recíproco que sucede entre las especies que interactúan. En los colibríes se refleja en las formas de sus picos y las formas de las flores que polinizan"
-    },
-    {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "sacarosa",
-        "DEFINICIONES": "Sustancia orgánica soluble en agua que aporta energía a los animales y plantas, formado por glucosa y fructosa .Los colibríes polinizan flores con néctar que contiene alta proporción de sacarosa"
-    },
-    {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "zumbido",
-        "DEFINICIONES": "Es el sonido de su vuelo descendente, el cual se produce por las diferencias de presión del aire durante los batidos y la velocidad a la que se mueven sus alas."
-    },
-    {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "vuelonocturno",
-        "DEFINICIONES": "Los colibríes tienen la córnea agrandada que aumenta la cantidad de percepción de luz del ojo y pueden volar de noche"
-    },
-    {
-        "TITULO": "Datos curiosos de los colibríes",
-        "PALABRAS": "metabolismoalto",
-        "DEFINICIONES": "Los colibríes tienen el metabolismo mas alto de todos los animales"
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "quemas",
-        "DEFINICIONES": "Genera pérdida de animales, pérdida de la vegetación y degradación del suelo. Ademas, erosión del suelo, contaminación del agua y deslizamientos de tierra."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "incendios",
-        "DEFINICIONES": "Provocan el desplazamiento de aves y mamíferos, lo cual puede alterar el equilibrio local y en última instancia la pérdida de vida silvestre."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "deforestacion",
-        "DEFINICIONES": "Ocasiona pérdida del hábitat de millones de especies ,ya que el 70 % de animales y plantas habitan los bosques, y ayudan al cambio climático. Los suelos húmedos sin la protección de los árboles se secan rápidamente."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "mineria",
-        "DEFINICIONES": "Actividad que se realiza en espacios prohibidos como las orillas de los ríos, lagunas, cabeceras de cuenca y las zonas de amortiguamiento de áreas naturales protegidas."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "fungicidas",
-        "DEFINICIONES": "Contaminan el agua subterránea, ocasiona daño a los animales en el agua, también contamina el agua que otros animales pueden beber."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "insecticidas",
-        "DEFINICIONES": "su aplicación contamina agua, suelos y aire, daña a los animales, altera la inocuidad de los alimentos que consumimos y, en consecuencia, incrementa los riesgos para la salud humana"
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "plasticos",
-        "DEFINICIONES": "Generan gran efecto sobre el medioambiente y una ruptura del equilibrio medioambiental. Es decir, es la alteración del medioambiente provocado directa o indirectamente por un proyecto o actividad en un área determinada"
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "contaminación",
-        "DEFINICIONES": "La presencia o introducción de sustancias nocivas en el medio ambiente que afectan negativamente a la salud y el bienestar de las especies que habitan en el área afectada. La contaminación del aire, agua y suelo es una amenaza  al hábitat natural."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "urbanización",
-        "DEFINICIONES": "La expansión de las áreas urbanas, a menudo a expensas de los hábitats naturales circundantes, como los bosques y los humedales. La urbanización puede alterar significativamente los ecosistemas y amenazar la supervivencia de muchas especies."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "fragmentación",
-        "DEFINICIONES": "División de un hábitat natural en áreas más pequeñas y aisladas, lo que puede hacer que sea difícil para las especies migrar y dispersarse. La fragmentación del hábitat puede ser causada por actividades humanas."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "acidificación",
-        "DEFINICIONES": "Proceso por el cual los cuerpos de agua se vuelven más ácidos debido a la contaminación, lo que afecta negativamente la fauna y flora acuáticas."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "cazafurtiva",
-        "DEFINICIONES": "Actividad ilegal de caza de animales en peligro de extinción, lo que puede afectar gravemente a la biodiversidad y la estabilidad de los ecosistemas."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "sobrecultivo",
-        "DEFINICIONES": "Cultivo excesivo en un área determinada, lo que puede causar la degradación del suelo y la pérdida de la biodiversidad."
-    },
-    {
-        "TITULO": "Amenazas al hábitat ",
-        "PALABRAS": "cazaypesca",
-        "DEFINICIONES": "Altera la cadena alimentaria que se forma dentro de él y hace que todo el ecosistema altere su equilibrio y, por tanto, funcione deficientemente. "
-    },
-    {
-        "TITULO": "Categoria de amenaza",
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
         "PALABRAS": "extinto",
-        "DEFINICIONES": "Una especie se extingue cuando su último ejemplar muere. Por lo tanto, la extinción se convierte en una certeza cuando no hay ningún integrante capaz de reproducirse y dar lugar a una nueva generación."
+        "DEFINICIONES": "Categoría de las listas rojas de UICN que corresponde cuando muere el último individuo existente de una especie"
     },
     {
-        "TITULO": "Categoria de amenaza",
-        "PALABRAS": "critico",
-        "DEFINICIONES": "Especie que enfrenta un riesgo extremadamente alto de extinción en estado silvestre."
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
+        "PALABRAS": "peligrocritico",
+        "DEFINICIONES": "Especie que enfrenta un riesgo extremadamente alto de extinción en estado de vida silvestre"
     },
     {
-        "TITULO": "Categoria de amenaza",
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
         "PALABRAS": "extinsilvestre",
-        "DEFINICIONES": "Cuando los únicos miembros vivos de la especie están mantenidos en cautiverio (en colecciones botánicas en caso de las plantas) o como especies naturalizadas excluidas de su estirpe histórica y completamente fuera de su distribución original."
+        "DEFINICIONES": "Categoría de las listas rojas de UICN establecida cuando los únicos miembros vivos de la especie viven en cautiverio, cultivo o como población naturalizada fuera de su distribución original"
     },
     {
-        "TITULO": "Categoria de amenaza",
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
         "PALABRAS": "casiamenazado",
-        "DEFINICIONES": "Especies que al ser evaluada por la UICN, no satisface los criterios de las categorías vulnerable, en peligro o en peligro crítico de la Lista Roja, aunque está cercano a cumplirlos o se espera que así lo haga en un futuro próximo."
+        "DEFINICIONES": "Especie que al ser evaluada por la UICN, no satisface los criterios de las categorías vulnerable, en peligro o en peligro crítico, aunque está cercano a cumplirlos o se espera que así lo haga en un futuro cercano"
     },
     {
-        "TITULO": "Categoria de amenaza",
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
         "PALABRAS": "datodeficiente",
-        "DEFINICIONES": "Cuando no hay información adecuada de una especie para hacer una evaluación, directa o indirecta, de su riesgo de extinción basándose en la distribución y/o condición de la población."
+        "DEFINICIONES": "Categoría de la UICN que corresponde a una especie cuando no hay información adecuada para hacer una evaluación, directa o indirecta, de su riesgo de extinción basándose en la distribución y/o condición de la población"
     },
     {
-        "TITULO": "Categoria de amenaza",
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
         "PALABRAS": "vulnerable",
-        "DEFINICIONES": "Especies que en la actualidad no se encuentran necesariamente en peligro de extinción, pero podrían llegar a esa situación de seguir actuando los factores causales."
+        "DEFINICIONES": "Categoria de las listas rojas de UICN cuando una especie presenta reducción importante de su población o fragmentación o disminución de la distribución natural, con alta probabilidad de pasar a la categoría En Peligro"
     },
     {
-        "TITULO": "Categoria de amenaza",
-        "PALABRAS": "menor",
-        "DEFINICIONES": "Espece que no cumple ninguno de los criterios que definen las categorías de En Peligro Crítico, En Peligro, Vulnerable o Casi Amenazado."
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
+        "PALABRAS": "preocupacionmenor",
+        "DEFINICIONES": "Categoría de las listas rojas de UICN para una especie con amplia distribución y abundancia de individuos que no se encuentra bajo amenaza de desaparecer en un futuro próximo "
     },
     {
-        "TITULO": "Categoria de amenaza",
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
         "PALABRAS": "uicn",
         "DEFINICIONES": "La Unión Internacional para la Conservación de la Naturaleza es una organización internacional dedicada a la conservación de los recursos naturales."
     },
     {
-        "TITULO": "Categoria de amenaza",
-        "PALABRAS": "migratorio",
-        "DEFINICIONES": "Una especie que realiza largos desplazamientos periódicos en busca de alimento o para reproducirse, lo que la hace vulnerable a las amenazas a lo largo de su ruta migratoria."
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
+        "PALABRAS": "migratoria",
+        "DEFINICIONES": "Una especie que realiza largos desplazamientos periódicos en busca de alimento o para reproducirse, lo que la hace vulnerable a las amenazas a lo largo de su recorrido"
     },
     {
-        "TITULO": "Categoria de amenaza",
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
         "PALABRAS": "especieclave",
-        "DEFINICIONES": "Una especie que desempeña un papel vital en el mantenimiento del ecosistema y cuya desaparición tendría consecuencias graves para otras especies."
+        "DEFINICIONES": "Una especie que desempeña un papel vital en el mantenimiento del ecosistema y cuya desaparición tendría consecuencias graves para otras especies"
     },
     {
-        "TITULO": "Categoria de amenaza",
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
         "PALABRAS": "amenazada",
-        "DEFINICIONES": "Una especie que se encuentra en riesgo de extinción, con una población que está disminuyendo y que enfrenta amenazas significativas."
+        "DEFINICIONES": "Especie que tiene probabilidad de estar en peligro de extinción en un futuro previsible, ya sea en la totalidad o parte de su rango de distribución"
     },
     {
-        "TITULO": "Categoria de amenaza",
-        "PALABRAS": "invasora",
-        "DEFINICIONES": "Especies que no son nativas del área y que pueden desplazar o competir con las especies nativas, disminuyendo su población y diversidad."
+        "TITULO": "CATEGORÍAS DE AMENAZA GLOBAL",
+        "PALABRAS": "listaroja",
+        "DEFINICIONES": "Lista de las especies amenazadas evaluadas por la UICN que provee información sobre su categoría de amenaza, distribución, tamaño poblacional, uso y/o tráfico, hábitat y ecología"
     },
     {
-        "TITULO": "Categoria de amenaza",
-        "PALABRAS": "endemico",
-        "DEFINICIONES": "Una especie que solo se encuentra en una determinada área geográfica, lo que la hace especialmente vulnerable a las amenazas locales."
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "zamarritodepinche",
+        "DEFINICIONES": "Colibrí endémico (Eriocnemis isabellae) en estado crítico de amenaza reportado como nueva especie en 2008 por científicos de la Fundación Ecohabitats. Solo habita en los páramos de la Serranía El Pinche (Argelia, Cauca, Colombia)"
     },
     {
-        "TITULO": "Categoria de amenaza",
-        "PALABRAS": "librosrojos",
-        "DEFINICIONES": "Documentos que presentan una lista de las especies amenazadas de una región o país o a nivel global, es un resumen de la información sobre las amenazas y el estado de conservación de dichas especies."
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "picaflorventirrufo",
+        "DEFINICIONES": "Ave endémica (Diglossa gloriosissima) distribuida solo en la cordillera occidental por encima de los 2500 hasta los 4000 msnm. Con alas y garganta negros, con vientre y pecho castaño rojizo"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "acanthaceae",
-        "DEFINICIONES": "Familia de plantas con flores dicotiledóneas que contiene casi 250 géneros y alrededor de 2500 especies"
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "zamarritomunchique",
+        "DEFINICIONES": "Colibrí endémico (Eriocnemis mirabilis) en peligro de extinción. Solo habita en los bosques andinos de la Serranía El Pinche (Argelia) y en el Parque Nacional Natural Munchique (El Tambo) en el Cauca entre 2200 y 2800 msnm"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "araceae",
-        "DEFINICIONES": "Familia de plantas con flores que incluye alrededor de 2500 especies. Esta familia es empleada como alimento, forraje para animales, medicina, plantas ornamentales y flores cortadas."
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "habiacopetona",
+        "DEFINICIONES": "Ave endémica (Habia cristata) que vive en las selvas subandinas entre los 700 y 1.800 msnm en la Cordillera Occidental de los Andes colombianos, a menudo entre la vegetación densa, a lo largo de ríos o en barrancos"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "bromeliaceae",
-        "DEFINICIONES": "Familia de plantas tropicales con flores que se adaptan a una amplia gama de sitios y climas. Las plantas de la familia Bromeliaceae son mejor conocidas como \"bromelias\" en su nombre común. "
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "perdizcolorada",
+        "DEFINICIONES": "Ave endémica (Odontophorus hyperythrus) que solo vive en las selvas andinas y en los bordes densos de los bosques, entre los 1.600 y 2.700 m de altitud. Mide entre 25 a 28 cm de longitud"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "begoniaceae",
-        "DEFINICIONES": "Familia de plantas con flores incluye alrededor de 1500 especies y cientos de híbridos.Las plantas varían en tamaño desde unas pocas pulgadas hasta más de 12 pulgadas de altura, y las flores, los colores del follaje y los tamaños son muy diversos."
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "torcazacolorada",
+        "DEFINICIONES": "Paloma amenazada en categoria Vulnerable (Patagioenas subvinacea). Vive desde el sur de Costa Rica hasta el oeste de Ecuador, Bolivia y Brasil central hasta los 1500 msnm,  mide 28 cm de largo,  es de color rosado violáceo"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "asteraceae",
-        "DEFINICIONES": "Familia de plantas con flores que incluye más de 23,600 especies de plantas herbáceas, arbustos y árboles distribuidos en todo el mundo.Importante económicamente, ya que proporciona alimentos básicos, plantas de jardín y medicinas herbales."
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "aguilacrestada",
+        "DEFINICIONES": "Ave rapaz. En Peligro de extinción (Spizaetus isidori). Vive en selvas andinas desde Argentina hasta Venezuela. Mide entre 64 y 74 cm de largo, con cabeza, cuello y dorso negros y una cresta aguda"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "fagaceae",
-        "DEFINICIONES": "Familia de plantas que incluye árboles o arbustos con hojas simples, generalmente dentadas y/o lobuladas, dispuestas alternativamente a lo largo del tallo. Importante en la producción de madera y alimentos, como las bellotas"
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "aguiluchoandino",
+        "DEFINICIONES": "Ave rapaz migratoria austral (Buteo albigula). Habita el centro-sur de Chile, Perú y Argentina. Mide entre 40-45 cm de longitud. Dorso café oscuro y en la zona ventral es de color blanco"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "rosaceae",
-        "DEFINICIONES": "Familia que incluye hierbas, enredaderas, arbustos o árboles, con hojas dispuestas alternativamente a lo largo del tallo. Algunos géneros de la familia Rosaceae incluyen Rosas, Fresas, Frambuesas, Manzanas, Peras, Duraznos, Cerezas y Albaricoques."
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "correlimosbatitu",
+        "DEFINICIONES": "Ave migratoria boreal (Bartramia longicauda). Habita en Norteamérica, desde Alaska hasta el sur de EE. UU. Posee patas largas amarillas y un largo cuello y cola, con cabeza y cuello de color marrón con vetas"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "violaceae",
-        "DEFINICIONES": "Familia de plantas con flores que incluye alrededor de 1000 especies en unos 25 géneros.Incluyen violetas, pensamientos y flores de pensamiento. Las flores de la familia Violaceae tienen una forma distintiva y ligeramente irregular"
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "reinitatrepadora",
+        "DEFINICIONES": "Ave migratoria boreal (Mniotilta varia). Vive en América del Norte y en Canadá. En Colombia a finales de agosto. Macho con cabeza y dorso estriados de blanco y negro. Mide entre 11,5 y 12,5 de longitud"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "sabiaceae",
-        "DEFINICIONES": " Familia de plantas con flores que incluye alrededor de 66 especies en tres géneros. Son pequeñas y tienen los estambres opuestos a los pétalos o sépalos, y los frutos son carnosos, aplanados y curvados"
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "golondrinaalfarera",
+        "DEFINICIONES": "Ave migratoria boreal (Petrochelidon pyrrhonota). Anida desde el occidente y centro de Alaska hasta México. En vuelo se diferencia de otras golondrinas similares por tener cola cuadrada"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "cornaceae",
-        "DEFINICIONES": "familia de plantas que incluye árboles y arbustos con hojas opuestas y sin estípulas. Las flores de la familia Cornaceae son pequeñas y generalmente se agrupan en inflorescencias. Los frutos son drupas y contienen una sola semilla. "
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "cardenalabejero ",
+        "DEFINICIONES": "Ave migratoria boreal (Piranga rubra). Macho adulto con plumaje corporal rojo salmón, con las plumas de alas y cola parduscas. Vive en el oriente y el suroccidente de Norteamérica y en la costa del golfo de México. Mide entre 18-20 cm de longitud"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "orchidiaceae",
-        "DEFINICIONES": "Plantas con flores incluye alrededor de 880 géneros y 26,000 especies distribuidas en el mundo. Las orquídeas son hierbas perennes y presentan flores inusualmente simétricas bilateralmente, con masas de polen."
+        "TITULO": "AVES ENDÉMICAS, AMENAZADAS Y MIGRATORIAS DE LA SERRANÍA EL PINCHE",
+        "PALABRAS": "golondrinapurpura",
+        "DEFINICIONES": "Ave migratoria boreal (Progne subis). Macho completamente negro azul lustroso. Vive en Norteamérica. Hembra con frente grisácea escarchada, por encima café con ligero lustre púrpura en cabeza y alas. Mide 19 cm de longitud"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "lauraceae",
-        "DEFINICIONES": "Familia de plantas que incluye principalmente árboles o arbustos con hojas aromáticas que tienen hojas enteras o lobuladas (pero no dentadas) dispuestas alternativamente a lo largo del tallo. "
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "quema",
+        "DEFINICIONES": "Práctica agrícola que consiste en quemar los restos vegetales (árboles, arbustos y hierbas) después de haber talado un área que se destinará al cultivo"
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "cleomaceae",
-        "DEFINICIONES": "Familia de plantas que incluye alrededor de 300 especies en 10 géneros. Son hierbas anuales o perennes con hojas alternas y flores con cuatro pétalos y seis estambres. Los frutos son cápsulas que se abren en tres partes. "
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "incendioforestal",
+        "DEFINICIONES": "Fuego que se extiende libremente sin control ni límites preestablecidos, destruyendo vegetación y vida silvestre. "
     },
     {
-        "TITULO": "Familia de Plantas en  Reserva Serrania el Pinche ",
-        "PALABRAS": "poaceae",
-        "DEFINICIONES": "Plantas que incluye alrededor de 12,000 especies de hierbas perennes o anuales, conocidas como gramíneas o pastos. Las plantas de la familia Poaceae son importantes en la producción de alimentos, forraje, combustible y materiales de construcción."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "deforestacion",
+        "DEFINICIONES": "Destrucción de los bosques naturales por acción humana mediante la tala o la quema de árboles"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "anseriformes",
-        "DEFINICIONES": "Aves acuáticas comprende alrededor de 180 especies en tres familias: Anhimidae (kamichis), Anseranatidae ( ganso de magpie) y Anatidae, la familia más grande, que incluye más de 170 especies de aves acuáticas, entre ellas los patos, gansos y cisnes."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "mineria",
+        "DEFINICIONES": "Explotación o extracción de minerales en yacimientos superficiales o subterráneos"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "apodiformes",
-        "DEFINICIONES": "Diferentes entre sí en apariencia general y forma de vida. Los vencejos y los vencejos arbóreos son aves de vuelo rápido que se alimentan de insectos, mientras que los colibríes son aves pequeñas y coloridas que se alimentan principalmente de néctar."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "fungicida",
+        "DEFINICIONES": "Agente físico o químico con la capacidad de eliminar hongos y sus esporas. Aquellos cuya base es netamente químico pueden generar problemas de salud"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "columbiformes",
-        "DEFINICIONES": "Incluye palomas, palomas, dodoes y solitarios. Se encuentran en todo el mundo, excepto en las regiones subpolares y algunas islas oceánicas. Tienen una amplia gama de colores, desde grises y marrones hasta llamativos naranjas, verdes o púrpuras"
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "insecticida",
+        "DEFINICIONES": "Compuesto químico que elimina o controla insectos"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "cuculiformes",
-        "DEFINICIONES": "Contiene alrededor de 140 especies de cucos, correcaminos, coucals, couas, malkohas, güiras y anís."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "plastico",
+        "DEFINICIONES": "Material sintético natural (p.e. celofán) o sintético derivado del petróleo (p.e. polietileno) que es maleables y moldeado en objetos sólidos, no biodegradable, que libera sustancias tóxicas al derretirse"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "falconiformes",
-        "DEFINICIONES": "Incluye águilas, halcones, milanos, halcones y Nuevo Mundo Buitres. Tienen la vista y el oído bien desarrollados y matan con sus picos, no con sus garras. Muchas especies de Falconiformes están en peligro de extinción."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "contaminacion",
+        "DEFINICIONES": "La presencia o introducción de sustancias nocivas en el medio ambiente que afectan negativamente a la salud y el bienestar de las especies que habitan en el área afectada"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "galliformes",
-        "DEFINICIONES": "Incluye más de 270 especies vivas, como pavos, pollos, codornices, perdiz, faisán, pavo real, gallina de Guinea y urogallo."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "cambioclimatico",
+        "DEFINICIONES": "Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "pelecaniformes",
-        "DEFINICIONES": " Aves acuáticas que comparten la característica común de las membranas entre los cuatro dedos."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "fragmentacion",
+        "DEFINICIONES": "División de un hábitat natural en áreas más pequeñas y aisladas, lo que puede hacer que sea difícil para las especies migrar y dispersarse"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "piciformes",
-        "DEFINICIONES": "Incluye pájaros carpinteros, cuellos torcidos, jacamars, barbudos, guías de miel y tucanes.El orden se caracteriza por pies zygodactyl, con dos dedos apuntando hacia adelante y dos hacia atrás, lo que les ayuda a aferrarse a los árboles."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "acidificacion",
+        "DEFINICIONES": "Proceso por el cual los cuerpos de agua se vuelven más ácidos debido a la contaminación, lo que afecta negativamente la fauna y flora acuáticas"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "trogoniformes",
-        "DEFINICIONES": "Incluye alrededor de 35 especies de trogones, que son comunes a las regiones cálidas.Los trogones tienen un vientre rojo brillante a amarillo en contraste con un pecho oscuro y partes superiores"
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "cazafurtiva",
+        "DEFINICIONES": "Actividad ilegal mediante la cual se capturan o matan animales, lo que puede afectar gravemente a la biodiversidad y la estabilidad de los ecosistemas"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "strigiformes",
-        "DEFINICIONES": "Incluye búhos, garras bien desarrolladas, plumaje suave y vuelo notoriamente silencioso.Tienen pies rapactoriales, y todas las especies tienen un disco facial característico, que es circular entre los búhos rígidos y en forma de corazón en los búhos."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "ganaderia",
+        "DEFINICIONES": "Actividad productiva de cría, tratamiento, reproducción, cuidado y alimentación de animales domésticos (p.e. cerdos, vacas, pollos) para aprovechar su carne, leche, huevos y otros derivados "
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "tinamiformes",
-        "DEFINICIONES": "Aves más antiguos y están relacionados con las rátidas. Generalmente viven en el suelo y se encuentran en una variedad de hábitats."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "trafico",
+        "DEFINICIONES": "Extracción de animales o plantas de su hábitat natural para ser comercializados o usados como mascota"
     },
     {
-        "TITULO": "Familia de Aves en  Reserva Serrania el Pinche ",
-        "PALABRAS": "coraciformes",
-        "DEFINICIONES": "Pájaros coloridos incluyendo martín pescador, el abejarucos, el rodillos, y Los Todies. Tienen sindactilia, con Tres delanteros-puntiagudos de los pies (y dedos de los pies 3 & 4 fusionados en su base), en muchos reyespescadores uno de Faltan estos."
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "especieinvasora",
+        "DEFINICIONES": "Especies de plantas o animales que no son nativas del área y que pueden desplazar o competir con las especies nativas, disminuyendo su población y diversidad"
+    },
+    {
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "pesca",
+        "DEFINICIONES": "Conjunto de técnicas y actividades medante las que se capturan peces, moluscos u otros animales de ecosistemas marinos, marinocosteros o dulceacuícolas"
+    },
+    {
+        "TITULO": "AMENAZAS AL HÁBITAT DE LAS AVES",
+        "PALABRAS": "caminos",
+        "DEFINICIONES": "Franja  de terreno utilizada o dispuesta para caminar o ir de un lugar a otro"
     }
 ]

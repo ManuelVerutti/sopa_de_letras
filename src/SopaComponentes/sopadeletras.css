@@ -18,10 +18,7 @@
     justify-content: space-around;
   }
 
-.letra:hover {
-    background-color: rgb(162, 202, 129);
-    transform: scale(1.2);
-}
+
 
 .letraSelected{
     height: 5vw;
@@ -35,7 +32,18 @@
     text-transform: capitalize;
     user-select: none;
 }
-
+.letraSelecting{
+    height: 5vw;
+    width: 5vw;
+    font-size: 3vw;
+    background-color:  rgb(241, 230, 14)   !important  ;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    text-transform: capitalize;
+    user-select: none;
+}
 .sopa{
     padding: 10px;
     border-style: solid;

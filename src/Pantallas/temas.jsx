@@ -22,14 +22,14 @@ var temas = {
 fetch('Biodiversidad.json')
     .then(res => res.json())
     .then(data => {
-        temas.bio = data.filter(obj => obj.PALABRAS !== "" && obj.DEFINICIONES !== "" && obj.DEFINICIONES !== "0" && obj.PALABRAS.length <= 14);
+        temas.bio = data.filter(obj => obj.PALABRAS !== "" && obj.DEFINICIONES !== "" && obj.DEFINICIONES !== "0" && obj.PALABRAS.length <= 18);
 
     })
     .catch(err => console.error(err));
 fetch('CambioClimatico.json')
     .then(res => res.json())
     .then(data => {
-        temas.cC = data.filter(obj => obj.PALABRAS !== "" && obj.DEFINICIONES !== "" && obj.DEFINICIONES !== "0" && obj.PALABRAS.length <= 14);
+        temas.cC = data.filter(obj => obj.PALABRAS !== "" && obj.DEFINICIONES !== "" && obj.DEFINICIONES !== "0" && obj.PALABRAS.length <= 18);
 
     })
     .catch(err => console.error(err));
