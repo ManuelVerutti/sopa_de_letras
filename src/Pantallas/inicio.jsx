@@ -58,7 +58,7 @@ function Inicio() {
         <div className='fondoInicio'>
             <div className='cuerpoInicio'>
                 <div className='headerInicio'>
-                    <img src="Medios\logo-colibri-03.webp" alt="" />
+                    <img src="Medios\icono.webp" alt="" />
                 </div>
                 <div className='escogerUsuario'>
                     <h3>Escoge Usuario</h3>
@@ -69,7 +69,8 @@ function Inicio() {
                             storedData.map((user, i) => (
                                 <div onClick={(event) => handleUserClick(event, user)} className='div' key={i}>
                                     <p>{user.nombre}</p>
-                                    <button className="button" onTouchEnd={() => { borrar(i) }} >Borrar</button>
+                                    <img className='erraseButton' onTouchEnd={() => { borrar(i) }} src="Medios\caneca.webp" alt="" />
+                                    
                                 </div>
                             ))
                         }

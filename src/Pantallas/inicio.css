@@ -1,5 +1,5 @@
 .fondoInicio {
-    background-image: url('./fondo-pantalla.webp');
+    background-image: url('./fondo.webp');
     background-size: cover;
     display: flex;
     align-items: center;
@@ -109,6 +109,11 @@
     background-color: white;
     bottom: 0;
     z-index: 0;
+}
+
+.erraseButton{
+    width: 18px;
+    object-fit: cover;
 }
 
 .footerContenedor {

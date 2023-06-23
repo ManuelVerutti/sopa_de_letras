@@ -40,7 +40,7 @@ function VictoriaReporte(props) {
         const pdfData = doc.output('datauristring');
 
         await Filesystem.writeFile({
-            path: "Resultados_" + user.nombre +"_"+ props.tema + "_" + fechaFormateada + ".pdf",
+            path: "Resultados_" + user.nombre +"_"+user.apellidos +"_"+ props.tema + "_" + fechaFormateada + ".pdf",
             data: pdfData,
             directory: Directory.Documents
         })

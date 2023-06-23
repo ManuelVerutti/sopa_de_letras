@@ -60,7 +60,7 @@ function Registro() {
   function registro() {
 
     console.log(nombre, apellidos, organizacion, telefono, curso, correo, "nuni " + municipio, "depto" + departamento)
-    if (!nombre || nombre === "" || !apellidos || apellidos === "" || !organizacion || organizacion === "" || !telefono || telefono === "" || !curso || curso === "" || !correo || correo === "" || !municipio || municipio === "" || !departamento || departamento === "") {
+    if (!nombre || nombre === "" || !apellidos || apellidos === "" || !organizacion || organizacion === "" || !telefono || telefono === "" || !correo || correo === "" || !municipio || municipio === "" || !departamento || departamento === "") {
       console.log("Faltan campos por completar")
       alert('Todos los campos son requeridos');
     }
@@ -105,7 +105,7 @@ function Registro() {
       <Back destino="/" />
       <div className='cuerpoRegistro'>
         <div className='headerRegistro'>
-          <img src="Medios\logo-colibri-03.webp" alt="" />
+          <img src="Medios\icono.webp" alt="" />
         </div>
         <div className='registro'>
           <h3>Registro</h3>

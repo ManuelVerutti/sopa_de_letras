@@ -36,7 +36,7 @@
     height: 5vw;
     width: 5vw;
     font-size: 3vw;
-    background-color:  rgb(241, 230, 14)   !important  ;
+    background-color:  rgb(255, 140, 0)   !important  ;
     color: white;
     font-weight: bold;
     text-align: center;
@@ -70,7 +70,7 @@
     width: auto;
     padding: 4px;
     margin: 5px;
-    color: rgb(162, 202, 129);
+    color: rgb(255, 140, 0);
     font-weight: bold;
 }
 

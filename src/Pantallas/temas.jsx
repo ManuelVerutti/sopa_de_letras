@@ -22,7 +22,7 @@ var temas = {
 fetch('Biodiversidad.json')
     .then(res => res.json())
     .then(data => {
-        temas.bio = data.filter(obj => obj.PALABRAS !== "" && obj.DEFINICIONES !== "" && obj.DEFINICIONES !== "0" && obj.PALABRAS.length <= 18);
+        temas.bio = data.filter(obj => obj.PALABRAS !== "" && obj.DEFINICIONES !== "" && obj.DEFINICIONES !== "0" && obj.PALABRAS.length <= 18 );
 
     })
     .catch(err => console.error(err));
@@ -36,7 +36,7 @@ fetch('CambioClimatico.json')
 fetch('Planificacion.json')
     .then(res => res.json())
     .then(data => {
-        temas.pT = data.filter(obj => obj.PALABRAS !== "" && obj.DEFINICIONES !== "" && obj.DEFINICIONES !== "0" && obj.PALABRAS.length <= 14);
+        temas.pT = data.filter(obj => obj.PALABRAS !== "" && obj.DEFINICIONES !== "" && obj.DEFINICIONES !== "0" && obj.PALABRAS.length <= 18);
         console.log(temas.pT);
     })
     .catch(err => console.error(err));
@@ -185,7 +185,7 @@ function Temas() {
 
             <div className='cuerpoTemas'>
                 <div className='headerTemas'>
-                    <img src="Medios\logo-colibri-03.webp" alt="" />
+                    <img src="Medios\icono.webp" alt="" />
                 </div>
                 <h3>Selecciona el tema</h3>
                 <button className='btn' onClick={() => { playSound(); setSubtemaOn(true); setTemaSelec(1); }} >Biodiversidad</button>

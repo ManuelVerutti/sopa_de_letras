@@ -2,7 +2,6 @@ import "./Pregunta.css";
 import React, { useEffect, useState } from "react";
 
 function Pregunta(props) {
-    console.log(props.posicionRespuestaCorrecta);
     const [clase, setClase] = useState("");
     const [claseF, setClaseF] = useState("");
     const [answerSelected, setAnswerSelected] = useState(false);

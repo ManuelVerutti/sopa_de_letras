@@ -13,18 +13,18 @@ function Juego() {
     // mientras queden elementos sin mezclar
     while (currentIndex !== 0) {
 
-        // elegir un elemento aleatorio
-        randomIndex = Math.floor(Math.random() * currentIndex);
-        currentIndex--;
+      // elegir un elemento aleatorio
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex--;
 
-        // intercambiar el elemento actual con el aleatorio
-        temporaryValue = array[currentIndex];
-        array[currentIndex] = array[randomIndex];
-        array[randomIndex] = temporaryValue;
+      // intercambiar el elemento actual con el aleatorio
+      temporaryValue = array[currentIndex];
+      array[currentIndex] = array[randomIndex];
+      array[randomIndex] = temporaryValue;
     }
 
     return array;
-}
+  }
 
   const [words, setWords] = useState(JSON.parse(localStorage.getItem("subtema")).palabras);
   const [significados, setSignificados] = useState(JSON.parse(localStorage.getItem("subtema")).definiciones);
@@ -34,18 +34,18 @@ function Juego() {
 
 
     let tempArray = words.map((word, index) => {
-        return { word: word, significado: significados[index] };
-      });
-    
-      tempArray = shuffle(tempArray).slice(0, 8);
-    
-      let tempWords = tempArray.map(obj => obj.word);
-      let tempSig = tempArray.map(obj => obj.significado);
+      return { word: word, significado: significados[index] };
+    });
 
-      setWords(tempWords);
-      setSignificados(tempSig);
-    
-}
+    tempArray = shuffle(tempArray).slice(0, 8);
+
+    let tempWords = tempArray.map(obj => obj.word);
+    let tempSig = tempArray.map(obj => obj.significado);
+
+    setWords(tempWords);
+    setSignificados(tempSig);
+
+  }
 
   return (
     <div className='nivel'>

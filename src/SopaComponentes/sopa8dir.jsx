@@ -38,7 +38,7 @@ function WordSearch(props) {
         setAciertos(0);
         setPuntos(0);
         setTiempo(0);
-        setGrid(createGrid(words));
+        setGrid(createGrid());
     }, [props.words])
 
     useEffect(() => {
@@ -120,13 +120,12 @@ function WordSearch(props) {
         setIsSelected(false);
     }, [isSelected])
 
-    const createGrid = (words) => {
+    const createGrid = () => {
         console.log(words);
         let grid = [];
         let wordPos = [];
+        let tempWords = [];
         
-
-
         //create a grid with random letters
         for (let i = 0; i < wordSize; i++) {
             let row = []
@@ -139,6 +138,13 @@ function WordSearch(props) {
         words.forEach((word, index) => {
             let placed = false
             let attempts = 0
+            if (word.includes(" ")) {
+                // Eliminar los espacios en blanco
+                word = word.replace(/ /g, "");
+            }
+            
+            tempWords.push(word);
+
             while (!placed && attempts < 1000) {
                 let row = Math.floor(Math.random() * wordSize)
                 let col = Math.floor(Math.random() * wordSize)
@@ -150,9 +156,12 @@ function WordSearch(props) {
                 attempts++
             }
             if (!placed) {
-                console.log(`Could not place word ${word}`)
+                console.log(`Could not place word ${word}___________________________________`)
+                words.splice(index, 1)
             }
         })
+
+        setWords(tempWords);
         console.log(wordPos);
         setWordPosFinal(wordPos);
         return grid
@@ -410,7 +419,7 @@ function WordSearch(props) {
             <p className='titulo'>{props.tema}</p>
             <div className='estadisticas'>
                 <div>
-                    <img onTouchEnd={() => { playSound(); setPaused(true) }} className='pauseIcon' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAYFBMVEX///8AAAAwMDDg4OAYGBjw8PDc3Nzl5eVra2v6+vokJCSnp6fW1taKiopLS0vp6enAwMDv7+8QEBC+vr4fHx9PT09wcHCpqallZWWBgYGfn59YWFgrKyv29vYjIyNOTk5bYkiNAAACt0lEQVR4nO2dyXIUQQwFrcF4GcCYxWwe4P//kisRvVZVT4SUkXnuw6TD9htVq6SbGxERERERERERERERERERERERERERAo/3K7Q9/rH7Q7w+Dhhs8SZW+DR5/G7l6dvuD3G+zPwwj2LN8Pbt5PE1w1P3hzjF5/cjEqskMYx4HrFYI41hvBvRWCGPYXwY8VgmkWE8jIgskskwnn6PqCyQyjCukRq5DK+RGskMr5Aa6Qzj14jODPkMj06NhIbxbURoQkbDY1MjpWGc+yuxCTkNI45LjayG8WXE6n/SGh5Wa+Q1PCo1EhseVGtkNoynI06oUhvG1wNSI7fhEamR3XC81khvOJwa+Q1HU6OA4WBqVDCMl5HUKGE4lBo1DEdSo4phf2qUMexOjTqG8RNv2HlCVcmwr9YoZdh1QlXLsCc1qhm2n1CVM2xOjXqGrbVGQcPGWqOiYdt7jZKGcWpIjZqGLalR1XB/rVHWML7jDfemRmHD+IE3jJc9qVHacFdq1DbckxrVDbdTo7zhZq1R33DrhApguFFrEAzXUwNhGOfpzRCYYcQd3nA5NTCGi523HMOlWgNkGA+zh/4kw/kTKpRhXGZqDZZh/Jn+orIMLzPJjzLE/x3i/5fi8xD/nQb/vZReW+Drw1d6jY8/p8GfteHPS/Fn3sspwTA8raQEwhD//hD/Dhj/Hh/fi4Hvp6H3ROH72po62isa4vtL8T3C+D5vfK8+/b4F/s4M/t4T/u5a5631Oob4O6T4e8D0u9z4+/j4mQpjM/gKGOJnm+Dn0+BnDNHnROFnff2lz2vDz9zDz03Ez77Ezy+lz6Cd62buJaUhfhY0fp43fiY7fq4+fTcCfr8FfkcJfs8MflcQft8TfmcXfe8afXcef/8hf4flVUmxh1REREREREREREREREREREREREREpJF/C1JHvBLhekcAAAAASUVORK5CYII=" alt="" />
+                    <img onTouchEnd={() => { playSound(); setPaused(true) }} className='pauseIcon' src="Medios\pausa.webp" alt="" />
                 </div>
                 <p>{Math.floor(tiempo / 60) + ":" + (tiempo % 60)}</p>
                 <p>{aciertos + "/" + props.words.length}</p>
@@ -428,7 +437,7 @@ function WordSearch(props) {
                 </tbody>
             </table>
             <div className='palabras'>
-                {props.words.map((word, i) => (
+                {words.map((word, i) => (
                     <p id={"p" + i} key={i}>{word}</p>
                 ))}
             </div>
