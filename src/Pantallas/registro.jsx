@@ -60,10 +60,30 @@ function Registro() {
   function registro() {
 
     console.log(nombre, apellidos, organizacion, telefono, curso, correo, "nuni " + municipio, "depto" + departamento)
-    if (!nombre || nombre === "" || !apellidos || apellidos === "" || !organizacion || organizacion === "" || !telefono || telefono === "" || !correo || correo === "" || !municipio || municipio === "" || !departamento || departamento === "") {
-      console.log("Faltan campos por completar")
-      alert('Todos los campos son requeridos');
+    if (!nombre || nombre === "" || !apellidos || apellidos === "" || !telefono || telefono === "" || !correo || correo === "" || !municipio || municipio === "" || !departamento || departamento === "") {
+      let camposFaltantes = [];
+      if (!nombre || nombre === "") {
+        camposFaltantes.push("Nombre");
+      }
+      if (!apellidos || apellidos === "") {
+        camposFaltantes.push("Apellidos");
+      }
+      if (!telefono || telefono === "") {
+        camposFaltantes.push("Teléfono");
+      }
+      if (!correo || correo === "") {
+        camposFaltantes.push("Correo");
+      }
+      if (!municipio || municipio === "") {
+        camposFaltantes.push("Municipio");
+      }
+      if (!departamento || departamento === "") {
+        camposFaltantes.push("Departamento");
+      }
+    
+      alert("Faltan los siguientes campos por completar: " + camposFaltantes.join(", "));
     }
+    
     else {
       if (terminosAceptados) {
 
@@ -123,12 +143,12 @@ function Registro() {
             </div>
 
             <div>
-              <p>Organización / Institución Educativa</p>
+              <p>Organización / Institución Educativa (opcional)</p>
               <input type="text" value={organizacion} onChange={e => setOrganizacion(e.target.value)} />
             </div>
 
             <div>
-              <p>Curso</p>
+              <p>Curso (opcional)</p>
               <input type="number" value={curso} onChange={e => setCurso(e.target.value)} />
             </div>
 
@@ -169,7 +189,7 @@ function Registro() {
 
             <div className='terminos'>
               <input className='checkBox' type="checkbox" checked={terminosAceptados} onChange={e => setTerminosAceptados(e.target.checked)} />
-              <p className='pTerminos'>*Si he leído y presto mi consentimiento a los Términos de Uso del sitio y al procesamiento, al tratamiento y a la transferencia de mis datos personales conforme a lo dispuesto en la <a href="">Política de Privacidad</a></p>
+              <p className='pTerminos'>*Si he leído y presto mi consentimiento a los Términos de Uso del sitio y al procesamiento, al tratamiento y a la transferencia de mis datos personales conforme a lo dispuesto en las <a onClick={()=>{alert("Para leer los términos y condiciones asegúrate de tener conexión a internet");}} href="https://drive.google.com/file/d/16ex-Gn3wjXFArFAnuGWpcKWXAQRBmKfp/view?usp=sharing">Políticas de Privacidad y Terminos y Condiciones</a></p>
             </div>
 
             <button onTouchEnd={() => { playSound(); registro() }} >Registrarse</button>

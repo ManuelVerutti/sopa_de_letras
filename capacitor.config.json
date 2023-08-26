@@ -1,6 +1,6 @@
 {
   "appId": "manuel.test.sopadeletras",
-  "appName": "sopadeltras",
+  "appName": "sopadeletras",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",

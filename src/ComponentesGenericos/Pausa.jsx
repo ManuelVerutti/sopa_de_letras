@@ -1,7 +1,9 @@
 import './Pausa.css';
-import React from 'react';
+import React,{useEffect} from 'react';
 import { useNavigate } from 'react-router-dom';
 import soundFile from '../Sounds/pop.mpeg';
+
+
 
 
 
@@ -11,6 +13,7 @@ function Pausa(props) {
         const audio = new Audio(soundFile);
         audio.play();
       }
+
 
     const navigate = useNavigate();
     return (

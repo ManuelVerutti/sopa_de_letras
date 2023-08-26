@@ -44,7 +44,7 @@ function Inicio() {
     }
 
     const handleUserClick = (event, user) => {
-        if (event.target.className !== 'button') {
+        if (event.target.className !== 'erraseButton') {
             playSound();
             localStorage.setItem("currentUser", JSON.stringify(user));
             navigate("/temas")

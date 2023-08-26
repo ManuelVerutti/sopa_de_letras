@@ -1,12 +1,14 @@
 .musicBtn{
+    display: flex;
     position: fixed;
-    font-size: 40px;
-    font-weight: bold;
     background-color: transparent;
-    font-family: monospace;
-    border: 0;
-    top: 5px;
-    left: calc(100% - 70px);
-    opacity: 90%;
+    top: 15px;
+    left: 50vw;
+    opacity: 0.4;
     z-index: 10;
+    width: 30px;
+}
+
+.active{
+    opacity: 1;
 }

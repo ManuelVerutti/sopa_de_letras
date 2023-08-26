@@ -37,12 +37,13 @@
 .cuerpoPre p {
     margin-top: 20px;
     padding: 6px;
-    border-style: dashed;
-    border-color: #333;
+    border-style: solid;
+    border-color: #838383;
     border-width: 2px;
     font-size: 12px;
     text-align: justify;
     max-width: 70vw;
+    border-radius: 5px;
 }
 
 .cuerpoPre .correcta {

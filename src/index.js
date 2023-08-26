@@ -8,7 +8,6 @@ import Juego from './Pantallas/juego';
 import Inicio from './Pantallas/inicio';
 import Registro from './Pantallas/registro';
 import Temas from './Pantallas/temas';
-import soundFile from './Sounds/music.m4a';
 import Music from './ComponentesGenericos/Music';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

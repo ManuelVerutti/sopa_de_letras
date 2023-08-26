@@ -46,7 +46,6 @@ function WordSearch(props) {
             if (aciertos < props.words.length || enPregunta) {
 
                 if (localStorage.getItem("primeraVez") == "true") {
-                    alert("Para resaltar las palabras, primero toca la primera letra y luego la última de cada palabra que deseas destacar.");
                     localStorage.setItem("primeraVez", false);
                 }
                 let tempTiempo = tiempo;
@@ -188,7 +187,7 @@ function WordSearch(props) {
         else {
             setTimeout(() => {
                 setEnPregunta(false);
-            }, 1000);
+            }, 1500);
         }
 
 
@@ -430,7 +429,7 @@ function WordSearch(props) {
                     {grid.map((row, i) => (
                         <tr key={i}>
                             {row.map((cell, j) => (
-                                <td onTouchEnd={() => { playSound(); startSelect(j, i) }} id={j + "," + i} className='letra' key={j}>{cell}</td >
+                                <td onClick={() => { playSound(); startSelect(j, i) }} id={j + "," + i} className='letra' key={j}>{cell}</td >
                             ))}
                         </tr>
                     ))}

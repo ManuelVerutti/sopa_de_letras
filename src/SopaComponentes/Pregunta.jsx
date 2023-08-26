@@ -1,5 +1,13 @@
 import "./Pregunta.css";
 import React, { useEffect, useState } from "react";
+import winSound from '../Sounds/gana.mp3';
+import failSound from '../Sounds/pierde.mp3';
+
+
+
+const audioWin = new Audio(winSound);
+const audioFail = new Audio(failSound);
+
 
 function Pregunta(props) {
     const [clase, setClase] = useState("");
@@ -22,6 +30,8 @@ function Pregunta(props) {
                                     setClase(clase === "" ? "correcta" : "");
                                     props.respuesta(true);
                                     setAnswerSelected(true);
+                                    audioWin.play();
+
                                 }
                             }}
                         >
@@ -35,6 +45,7 @@ function Pregunta(props) {
                                     setClaseF(claseF === "" ? "falsa" : "");
                                     props.respuesta(false);
                                     setAnswerSelected(true);
+                                    audioFail.play();
 
                                 }
                             }}
@@ -52,6 +63,7 @@ function Pregunta(props) {
                                     setClaseF(claseF === "" ? "falsa" : "");
                                     props.respuesta(false);
                                     setAnswerSelected(true);
+                                    audioFail.play();
 
                                 }
                             }}
@@ -66,6 +78,7 @@ function Pregunta(props) {
                                     setClase(clase === "" ? "correcta" : "");
                                     props.respuesta(true);
                                     setAnswerSelected(true);
+                                    audioWin.play();
 
 
                                 }

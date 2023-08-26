@@ -3,6 +3,9 @@ import React from 'react';
 import WordSearch from '../SopaComponentes/sopa8dir';
 import Header_Footer from '../ComponentesGenericos/Header_Footer';
 import { useState, useEffect } from 'react';
+import Tutorial from '../ComponentesGenericos/Tutorial';
+
+
 
 function Juego() {
 
@@ -49,7 +52,9 @@ function Juego() {
 
   return (
     <div className='nivel'>
+      
       <Header_Footer />
+      <Tutorial/>
       <div className="cuerpo">
         <WordSearch words={words} significados={significados} tema={tema} />
       </div>
