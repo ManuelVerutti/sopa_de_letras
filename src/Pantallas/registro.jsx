@@ -5,6 +5,8 @@ import Back from '../ComponentesGenericos/Back';
 import soundFile from '../Sounds/pop.mpeg';
 
 
+//Cambios hechos 
+
 function Registro() {
 
   function playSound() {
@@ -60,7 +62,7 @@ function Registro() {
   function registro() {
 
     console.log(nombre, apellidos, organizacion, telefono, curso, correo, "nuni " + municipio, "depto" + departamento)
-    if (!nombre || nombre === "" || !apellidos || apellidos === "" || !telefono || telefono === "" || !correo || correo === "" || !municipio || municipio === "" || !departamento || departamento === "") {
+    if (!nombre || nombre === "" || !apellidos || apellidos === "" || !telefono || telefono === "" || !municipio || municipio === "" || !departamento || departamento === "") {
       let camposFaltantes = [];
       if (!nombre || nombre === "") {
         camposFaltantes.push("Nombre");
@@ -70,9 +72,6 @@ function Registro() {
       }
       if (!telefono || telefono === "") {
         camposFaltantes.push("Teléfono");
-      }
-      if (!correo || correo === "") {
-        camposFaltantes.push("Correo");
       }
       if (!municipio || municipio === "") {
         camposFaltantes.push("Municipio");
@@ -158,7 +157,7 @@ function Registro() {
             </div>
 
             <div>
-              <p>Correo electrónico</p>
+              <p>Correo electrónico (opcional)</p>
               <input type="email" value={correo} onChange={e => setCorreo(e.target.value)} />
             </div>
 

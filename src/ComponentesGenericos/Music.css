@@ -3,7 +3,7 @@
     position: fixed;
     background-color: transparent;
     top: 15px;
-    left: 50vw;
+    left: calc(100% - 50px);
     opacity: 0.4;
     z-index: 10;
     width: 30px;
